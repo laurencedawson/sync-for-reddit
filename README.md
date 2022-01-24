@@ -1,4 +1,4 @@
-Current
+Work in progress
 -----
 
 	- Work on new simple indicator view
@@ -78,3 +78,9 @@ Post launch
 	- New app icon
 	- Check that analytics is working right...
 	- Enable play store install checker
+
+Links
+-----
+	[Changelog](https://todo.syncforreddit.com/changelog)
+	[Discord](https://discord.gg/sync-for-reddit)
+	[Subreddit](https://reddit.com/r/redditsync)
