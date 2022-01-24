@@ -1,6 +1,6 @@
 ## Links
 
-- [Changelog](https://todo.syncforreddit.com/Changelog)
+- [Changelog](https://todo.syncforreddit.com/changelog)
 - [Discord](https://discord.gg/sync-for-reddit)
 - [Subreddit](https://reddit.com/r/redditsync)
 
@@ -10,6 +10,7 @@
 	- Set the ripple color for slide buttons 
 	- Continue hooking up the new slides
 	- Hook up changing voting chip to right hand side
+	- Remove all old slide view holders + layouts
 
 ## TODO
 
@@ -62,6 +63,7 @@
 	- Test share image of slide
 	- Revert minimal awards are now the default
 	- Revert minimal post flair is now the default
+	- Remove LegacyCustomImageView
 
 ### Post launch
 	- New app icon
