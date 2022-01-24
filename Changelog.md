@@ -29,7 +29,7 @@ Sync v20.1
 - https://github.com/laurencedawson/sync-for-reddit/issues/732
 - https://github.com/laurencedawson/sync-for-reddit/issues/729
 
-# Notes
+## Notes
 
 - 
 
