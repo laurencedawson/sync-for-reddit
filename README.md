@@ -1,10 +1,9 @@
 Current
 -----
 
-- Work on new simple indicator view
-- Continue hooking up the new slides
-
-- Set the ripple color for slide buttons 
+	- Work on new simple indicator view
+	- Continue hooking up the new slides
+	- Set the ripple color for slide buttons 
 
 
 TODO
