@@ -11,9 +11,11 @@ TODO
 -----
 
 Monet
+
 	- Hook up night mode
 
 Basics
+
 	- Hook up messaging
 	- Hook up moderator
 	- Hook up profiles
