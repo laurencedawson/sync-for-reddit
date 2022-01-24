@@ -1,6 +1,6 @@
 ## Links
 
-- [Changelog](https://todo.syncforreddit.com/changelog)
+- [Changelog](https://todo.syncforreddit.com/Changelog)
 - [Discord](https://discord.gg/sync-for-reddit)
 - [Subreddit](https://reddit.com/r/redditsync)
 
