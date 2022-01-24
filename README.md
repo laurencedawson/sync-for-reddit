@@ -71,9 +71,11 @@ Internal
 	- Delete SelftextCardView
 	- Disable viewbinding...
 	- Test share image of slide
+	- Revert minimal awards are now the default
+	- Revert minimal post flair is now the default
 
 Post launch
 
 	- New app icon
 	- Check that analytics is working right...
-	- Enable play store install checke
+	- Enable play store install checker
