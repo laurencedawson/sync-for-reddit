@@ -7,9 +7,9 @@
 ## Work in progress
 
 	- Work on new simple indicator view
-	- Continue hooking up the new slides
 	- Set the ripple color for slide buttons 
-
+	- Continue hooking up the new slides
+	- Hook up changing voting chip to right hand side
 
 ## TODO
 
@@ -57,8 +57,6 @@
 	- Toolbar icons mess up when changing theme
 
 ### Internal
-	- Delete VotingView
-	- Delete CommentChip
 	- Delete SelftextCardView
 	- Disable viewbinding...
 	- Test share image of slide
