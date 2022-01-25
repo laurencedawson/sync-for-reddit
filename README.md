@@ -6,13 +6,11 @@
 
 ## Work in progress
 
-	- Update the flair & awards to use glide over Picasso
-
 	- Work on new simple indicator view
 	- Continue hooking up the new slide
-
 	- Hook up changing voting chip to right hand side
 	- Remove all old slide view holders + layouts
+
 
 ## TODO
 
