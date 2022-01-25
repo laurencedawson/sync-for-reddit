@@ -6,9 +6,11 @@
 
 ## Work in progress
 
+	- Update the flair & awards to use glide over Picasso
+
 	- Work on new simple indicator view
-	- Set the ripple color for slide buttons 
-	- Continue hooking up the new slides
+	- Continue hooking up the new slide
+
 	- Hook up changing voting chip to right hand side
 	- Remove all old slide view holders + layouts
 
