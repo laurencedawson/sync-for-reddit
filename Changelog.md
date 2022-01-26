@@ -3,7 +3,7 @@ Sync v20.1
 
 ## New
 
-- 
+- Slides have been redesigned from the ground up (should be faster!)
 
 ## Changes
 

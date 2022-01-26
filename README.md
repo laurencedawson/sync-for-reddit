@@ -6,13 +6,22 @@
 
 ## Work in progress
 
-	- Work on new simple indicator view
-	- Continue hooking up the new slide
-	- Hook up changing voting chip to right hand side
-	- Remove all old slide view holders + layouts
+### Chipbar
+	- Hook up new chipbar!!
 
 
 ## TODO
+
+### Slides
+	- Update right hand voting constraints manually instead of using a new layout
+
+### Settings
+	- Update the toolbar cooler
+
+### Posts 
+	- Update post adapter to use the UI mode
+	- Optimise the post adapter
+	- SelftextPreviewHolder needs updating to Monet
 
 ### Monet
 	- Hook up night mode
@@ -32,14 +41,9 @@
 
 ### Comments
 	- Design & make new comments navigation toolbar
-	- Make comments have their own menu resource
 
 ### Drawer
 	- Add in night mode changer to the drawer
-
-### Chipbar
-	- Hook up new chipbar!!
-	- Check if streamable posts are considered video
 
 ### Drawer
 	- Add in account changer
@@ -64,8 +68,14 @@
 	- Revert minimal awards are now the default
 	- Revert minimal post flair is now the default
 	- Remove LegacyCustomImageView
+	- Delete slideimagewrapper
+	- Revist how missing thumbnails are generated
+	- Fix swipe mode
+	- check share looks good
+	- Check if streamable posts are considered video
 
 ### Post launch
 	- New app icon
 	- Check that analytics is working right...
 	- Enable play store install checker
+ 
