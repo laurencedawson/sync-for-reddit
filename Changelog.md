@@ -4,6 +4,7 @@ Sync v20.1
 ## New
 
 - Slides have been redesigned from the ground up (should be faster!)
+- Slides now have subreddit icons
 
 ## Changes
 
@@ -19,6 +20,7 @@ Sync v20.1
 - Disabled submit from the sidebar
 - The save icon now matches reddit.com
 - i.redd.it and v.redd.it domains are shown again in descriptions
+- The selftest border is now only an option for slides
 
 ## Fixes
 

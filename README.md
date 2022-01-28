@@ -7,11 +7,6 @@
 ## Work in progress
 
 	- Hook up thumbnail clicks in slides
-	- Look into flashing on pagination
-	- Remove the / 0 in the customimageview	
-	- Update new customimageview 
-	- snackbars broken in posts
-	- awards and flair still slow (maybe crashing too)
 
 ### Chipbar
 	- Hook up new chipbar!!
@@ -81,9 +76,12 @@
 	- check share looks good
 	- Check if streamable posts are considered video
 	- Switching between night and day is flickering
+	- Remove all instances of Picasso
+	- Awards and flair wrapper still slow (maybe crashing too)
 
 ### Post launch
 	- New app icon
 	- Check that analytics is working right...
 	- Enable play store install checker 
 	- Enable crashlytics for releases
+	- Look into adding headers with merge adapter
