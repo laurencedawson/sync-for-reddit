@@ -5,6 +5,7 @@ Sync v20.1
 
 - Slides have been redesigned from the ground up (should be faster!)
 - Slides now have subreddit icons
+- Added customisable swipe actions for posts
 
 ## Changes
 
