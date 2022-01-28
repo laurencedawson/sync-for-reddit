@@ -9,6 +9,7 @@ Sync v22.1
 
 ## Changes
 
+- Expanded the comments nav bar to include reply and collapse all (parity with v19)
 - The number of awards shown is now capped to 3
 - Card radius has been increased to match MD3
 - Quick actions have been renamed More actions

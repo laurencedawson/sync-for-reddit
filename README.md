@@ -6,11 +6,10 @@
 
 ## Work in progress
 
-	- Hook up thumbnail clicks in slides
+	-
 
 ### Chipbar
 	- Hook up new chipbar!!
-
 
 ## TODO
 
@@ -23,11 +22,11 @@
 ### Posts 
 	- Update post adapter to use the UI mode
 	- Optimise the post adapter
-	- SelftextPreviewHolder needs updating to Monet
 	- Update icon in CasualActivity to be "up"
 
 ### Monet
 	- Hook up night mode
+	- SelftextPreviewHolder needs updating to Monet
 
 ### Basics
 	- Hook up messaging
@@ -43,7 +42,7 @@
 	- Decide what to do with the large header on click
 
 ### Comments
-	- Design & make new comments navigation toolbar
+	- 
 
 ### Drawer
 	- Add in night mode changer to the drawer
