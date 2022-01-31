@@ -6,15 +6,15 @@
 
 ## Work in progress
 
-	-
-
-### Chipbar
-	- Hook up new chipbar!!
+	- Hook up new chipbar!!	
 
 ## TODO
 
 ### Slides
 	- 
+
+### Cards
+	- Hook up the new inline video player for cards
 
 ### Settings
 	- Update the toolbar cooler
@@ -25,8 +25,10 @@
 	- Update icon in CasualActivity to be "up"
 
 ### Monet
+	- Build a new theme manager
 	- Hook up night mode
 	- SelftextPreviewHolder needs updating to Monet
+	- Add a new section to themes "Content highlight color"
 
 ### Basics
 	- Hook up messaging
@@ -54,7 +56,6 @@
 	- Fix all the flags to add | PendingIntent.FLAG_IMMUTABLE
 
 ### Paused
-	- Add a new section to themes "Content highlight color"
 	- Add animation when showing the collapsed toolbar (maybe a fade)
 	- Sidebar should comeback as a sidebar
 	- Check profile bottom sheet
