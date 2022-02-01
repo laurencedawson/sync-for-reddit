@@ -7,8 +7,15 @@
 ## Work in progress
 
 	- Hook up new chipbar!!	
+	- Chipbar for comments
+	- Fix InlineImageSpan & EmoteImageSpan (also in CustomTextview)
+	- ImageSpanUtils
+	- Volume indicator broken on inline gifs
 
 ## TODO
+
+### Chips
+	- Hook up "Top growing"
 
 ### Slides
 	- 
@@ -85,3 +92,4 @@
 	- Enable play store install checker 
 	- Enable crashlytics for releases
 	- Look into adding headers with merge adapter
+	- Monitor System.err
