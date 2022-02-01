@@ -5,8 +5,19 @@
 - [Subreddit](https://reddit.com/r/redditsync)
 
 ## Work in progress
+	- Hook up new chipbar!!
+		- ~Defaults~
+		- ~Subreddits~
+		- ~Multi~
+		- ~Friends~
+		- ~Search~
+		- ~Watching~
+		- ~Domain~
+		- ~Seen~
+		- Profile (need to finish karma, add view profile)
+		- Mod
+		- Split section back up...
 
-	- Hook up new chipbar!!	
 	- Chipbar for comments
 	- Fix InlineImageSpan & EmoteImageSpan (also in CustomTextview)
 	- ImageSpanUtils

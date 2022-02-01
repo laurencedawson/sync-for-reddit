@@ -7,6 +7,7 @@ Sync v22.1
 - Slides now have subreddit icons
 - Added customisable swipe actions for posts
 - Autoplaying videos have been completely rewritten to be much faster and smoother when scrolling
+- You can now filter a subreddit by post flair from the expanded toolbar
 
 ## Changes
 
