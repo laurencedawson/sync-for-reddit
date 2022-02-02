@@ -5,6 +5,7 @@
 - [Subreddit](https://reddit.com/r/redditsync)
 
 ## Work in progress
+	- Merge SubView and ProfileView
 	- Hook up new chipbar!!
 		- ~Defaults~
 		- ~Subreddits~
@@ -14,7 +15,7 @@
 		- ~Watching~
 		- ~Domain~
 		- ~Seen~
-		- Profile (need to finish karma, add view profile)
+		- Profile
 		- Mod
 		- Split section back up...
 
@@ -22,6 +23,8 @@
 	- Fix InlineImageSpan & EmoteImageSpan (also in CustomTextview)
 	- ImageSpanUtils
 	- Volume indicator broken on inline gifs
+	- Redgif indicator broken
+	- On up broken in casual
 
 ## TODO
 
