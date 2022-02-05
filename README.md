@@ -15,14 +15,14 @@
 	- Volume indicator broken on inline gifs
 
 	- Hook up new chipbar!!
-		- ~Defaults~
-		- ~Subreddits~
-		- ~Multi~
-		- ~Friends~
-		- ~Search~
-		- ~Watching~
-		- ~Domain~
-		- ~Seen~
+		- ~~Defaults~~
+		- ~~Subreddits~~
+		- ~~Multi~~
+		- ~~Friends~~
+		- ~~Search~~
+		- ~~Watching~~
+		- ~~Domain~~
+		- ~~Seen~~
 		- Profile
 		- Mod
 		- Split section back up...
