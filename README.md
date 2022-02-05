@@ -5,7 +5,15 @@
 - [Subreddit](https://reddit.com/r/redditsync)
 
 ## Work in progress
-	- Merge SubView and ProfileView
+
+	- Work on switching over to Monet
+	- Remove ColorUtil.isColorDark
+	- ColorUtils.setAlphaComponent
+
+	- Chipbar for comments
+	- ImageSpanUtils
+	- Volume indicator broken on inline gifs
+
 	- Hook up new chipbar!!
 		- ~Defaults~
 		- ~Subreddits~
@@ -19,11 +27,9 @@
 		- Mod
 		- Split section back up...
 
-	- Chipbar for comments
-	- Fix InlineImageSpan & EmoteImageSpan (also in CustomTextview)
-	- ImageSpanUtils
-	- Volume indicator broken on inline gifs
-	- Redgif indicator broken
+	- Revert minimal awards are now the default
+	- Revert minimal post flair is now the default
+
 	- On up broken in casual
 
 ## TODO
@@ -32,7 +38,7 @@
 	- Hook up "Top growing"
 
 ### Slides
-	- 
+	- Hook up comment slides
 
 ### Cards
 	- Hook up the new inline video player for cards
@@ -88,17 +94,12 @@
 ### Internal
 	- Delete SelftextCardView
 	- Test share image of slide
-	- Revert minimal awards are now the default
-	- Revert minimal post flair is now the default
 	- Remove LegacyCustomImageView
 	- Delete slideimagewrapper
 	- Revisit how missing thumbnails are generated
 	- Fix swipe mode
-	- check share looks good
-	- Check if streamable posts are considered video
-	- Switching between night and day is flickering
-	- Remove all instances of Picasso
-	- Awards and flair wrapper still slow (maybe crashing too)
+	- Move comments notification bar (archive etc) out of the app bar
+	- Animated emotes
 
 ### Post launch
 	- New app icon
