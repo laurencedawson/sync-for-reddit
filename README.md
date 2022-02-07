@@ -6,13 +6,8 @@
 
 ## Work in progress
 
-	- Work on switching over to Monet
-	- Remove ColorUtil.isColorDark
-	- ColorUtils.setAlphaComponent
-
-	- Chipbar for comments
-	- ImageSpanUtils
-	- Volume indicator broken on inline gifs
+	- Implement new checkbox style in the settings
+	- Overhaul settings
 
 	- Hook up new chipbar!!
 		- ~~Defaults~~
@@ -25,12 +20,23 @@
 		- ~~Seen~~
 		- Profile
 		- Mod
+		- Messaging
 		- Split section back up...
+
+	- Check what is still using legacy activity
+	- Update style for material dialogs
+
+	- Work on switching over to Monet
+	- Remove ColorUtil.isColorDark
+	- ColorUtils.setAlphaComponent
+
+	- Chipbar for comments
+	- ImageSpanUtils
+	- Volume indicator broken on inline gifs
 
 	- Revert minimal awards are now the default
 	- Revert minimal post flair is now the default
 
-	- On up broken in casual
 
 ## TODO
 
@@ -88,8 +94,8 @@
 	- Check profile bottom sheet
 
 ### Known issues
-	- Toolbar icons don't work when collapses (disable join chip)
 	- Toolbar icons mess up when changing theme
+	- Dividers arent shown inbetween comments in the comment search bottomsheet
 
 ### Internal
 	- Delete SelftextCardView
@@ -108,3 +114,8 @@
 	- Enable crashlytics for releases
 	- Look into adding headers with merge adapter
 	- Monitor System.err
+
+### To discuss
+	- If a user has drawer disabled, where should the profile pic go?
+	- What chips can be shown at the top of frontpage and all?
+	- 

@@ -25,6 +25,7 @@ Sync v22.1
 - The save icon now matches reddit.com
 - i.redd.it and v.redd.it domains are shown again in descriptions
 - The selftest border is now only an option for slides
+- Increased the size and changed the position of the image seekbar
 
 ## Fixes
 
