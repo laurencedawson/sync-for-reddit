@@ -8,6 +8,7 @@
 	
 	- Settings
 		- Overhaul settings
+		- Add new section for monet themes
 		- Comment customization toolbar flashing
 		- Top banners clickable in settings for some reason
 		- Back button broken in settings
