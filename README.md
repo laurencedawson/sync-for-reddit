@@ -5,9 +5,13 @@
 - [Subreddit](https://reddit.com/r/redditsync)
 
 ## Work in progress
-
-	- Implement new checkbox style in the settings
-	- Overhaul settings
+	
+	- Settings
+		- Overhaul settings
+		- Comment customization toolbar flashing
+		- Top banners clickable in settings for some reason
+		- Back button broken in settings
+		- Add button to restore settings
 
 	- Hook up new chipbar!!
 		- ~~Defaults~~
@@ -37,6 +41,8 @@
 	- Revert minimal awards are now the default
 	- Revert minimal post flair is now the default
 
+	- Style positive and negative buttons
+
 
 ## TODO
 
@@ -45,6 +51,7 @@
 
 ### Slides
 	- Hook up comment slides
+	- Selftext preview text size
 
 ### Cards
 	- Hook up the new inline video player for cards
