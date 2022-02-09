@@ -5,9 +5,12 @@ Sync v22.1
 
 - Slides have been redesigned from the ground up (should be faster!)
 - Slides now have subreddit icons
+- Slides now have Twitter previews
 - Added customisable swipe actions for posts
 - Autoplaying videos have been completely rewritten to be much faster and smoother when scrolling
 - You can now filter a subreddit by post flair from the expanded toolbar
+- Slide site previews now have a fav icon
+- You can now search from the subreddit bottom sheet
 
 ## Changes
 
@@ -54,3 +57,5 @@ Sync v22.1
 - Removed all unused assets
 - Removed firebase analytics
 - Removed firebase messaging
+- Removed com.reddit:indicator-fast-scroll
+- Removed sectionedrecyclerviewadapter

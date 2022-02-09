@@ -6,6 +6,16 @@
 
 ## Work in progress
 	
+	- Drawer
+		- Make a new component for search
+		- make top section collapse
+		- Remove reddit + sectioned lib
+		- hide slow a little slow for the drawer
+
+	- Update comment search to use the new design
+	- Update search bottomsheet to use the new design
+	- follows broken
+
 	- Settings
 		- Overhaul settings
 		- Add new section for monet themes
@@ -58,7 +68,7 @@
 	- Hook up the new inline video player for cards
 
 ### Settings
-	- Update the toolbar cooler
+	- Update the toolbar colour
 
 ### Posts 
 	- Update post adapter to use the UI mode
@@ -126,4 +136,4 @@
 ### To discuss
 	- If a user has drawer disabled, where should the profile pic go?
 	- What chips can be shown at the top of frontpage and all?
-	- 
+	- Need a clear way to show the default subreddit
