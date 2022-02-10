@@ -11,6 +11,8 @@ Sync v22.1
 - You can now filter a subreddit by post flair from the expanded toolbar
 - Slide site previews now have a fav icon
 - You can now search from the subreddit bottom sheet
+- Added "Click back to open the left drawer" back in
+- Snackbars will once again show dark in dark mode
 
 ## Changes
 
@@ -29,6 +31,8 @@ Sync v22.1
 - i.redd.it and v.redd.it domains are shown again in descriptions
 - The selftest border is now only an option for slides
 - Increased the size and changed the position of the image seekbar
+- Zero width chars are now removed from selftest
+- Colourful quotes are now disabled by default
 
 ## Fixes
 

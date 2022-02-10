@@ -8,13 +8,14 @@
 	
 	- Drawer
 		- Make a new component for search
+		- Update search in the settings to use the new component
 		- make top section collapse
 		- Remove reddit + sectioned lib
 		- hide slow a little slow for the drawer
 
 	- Update comment search to use the new design
 	- Update search bottomsheet to use the new design
-	- follows broken
+	- Unify the color of all FABs
 
 	- Settings
 		- Overhaul settings
@@ -57,12 +58,16 @@
 
 ## TODO
 
+### Messaging
+	- Need to set the target ID for messaging header
+	- Messaging padding at top too large
+
 ### Chips
 	- Hook up "Top growing"
 
 ### Slides
 	- Hook up comment slides
-	- Selftext preview text size
+	- Selftext preview text size (seems to be different in the list than comments)
 
 ### Cards
 	- Hook up the new inline video player for cards
@@ -124,6 +129,11 @@
 	- Fix swipe mode
 	- Move comments notification bar (archive etc) out of the app bar
 	- Animated emotes
+
+### Small issues
+	- Remove any references to the old save logo
+
+
 
 ### Post launch
 	- New app icon
