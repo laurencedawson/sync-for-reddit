@@ -147,3 +147,4 @@
 	- If a user has drawer disabled, where should the profile pic go?
 	- What chips can be shown at the top of frontpage and all?
 	- Need a clear way to show the default subreddit
+	- Where to start autoplaying videos
