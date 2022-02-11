@@ -33,6 +33,8 @@ Sync v22.1
 - Increased the size and changed the position of the image seekbar
 - Zero width chars are now removed from selftest
 - Colourful quotes are now disabled by default
+- Deepzoom now has a default of 200dpi
+- Sticky posts now feature an icon instead of changing the title color
 
 ## Fixes
 

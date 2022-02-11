@@ -5,6 +5,9 @@
 - [Subreddit](https://reddit.com/r/redditsync)
 
 ## Work in progress
+
+	- Bugs
+		- Nav bar not fully hiding when scrolling
 	
 	- Drawer
 		- Make a new component for search
@@ -70,7 +73,8 @@
 	- Selftext preview text size (seems to be different in the list than comments)
 
 ### Cards
-	- Hook up the new inline video player for cards
+	- Hook up the new inline video player for cards	
+	- Add the new pinned posts header
 
 ### Settings
 	- Update the toolbar colour
