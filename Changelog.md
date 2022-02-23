@@ -3,6 +3,10 @@ Sync v22.1
 
 ## New
 
+- Added themed icon support for A13
+- Swapped to a completely new image manager (bye bye IO Exception)
+- Overhauled the settings with Monet theming
+- A new Monet based themeing engine
 - Slides have been redesigned from the ground up (should be faster!)
 - Slides now have subreddit icons
 - Slides now have Twitter previews
@@ -13,6 +17,7 @@ Sync v22.1
 - You can now search from the subreddit bottom sheet
 - Added "Click back to open the left drawer" back in
 - Snackbars will once again show dark in dark mode
+- Comments will now autoload top level "more"
 
 ## Changes
 
@@ -35,10 +40,12 @@ Sync v22.1
 - Colourful quotes are now disabled by default
 - Deepzoom now has a default of 200dpi
 - Sticky posts now feature an icon instead of changing the title color
+- 
 
 ## Fixes
 
-- 
+- Fixed the image upload / gallery select / edit functionality (submit and commenting)
+- Fixed an issue with the drawer collapsing / expanding sections slowly
 
 ## Closed
 
@@ -65,3 +72,4 @@ Sync v22.1
 - Removed firebase messaging
 - Removed com.reddit:indicator-fast-scroll
 - Removed sectionedrecyclerviewadapter
+- Removed gif-drawable

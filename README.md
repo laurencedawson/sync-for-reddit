@@ -6,27 +6,24 @@
 
 ## Work in progress
 
+
+	- Settings
+		- Comment customization toolbar flashing
+		- Top banners clickable in settings for some reason
+
+	Profiles
+		- Design new comment slide holder
+		- 
+
+	- Style positive and negative buttons
+	- Unify the color of all FABs
+
 	- Bugs
 		- Nav bar not fully hiding when scrolling
-	
-	- Drawer
-		- Make a new component for search
-		- Update search in the settings to use the new component
-		- make top section collapse
-		- Remove reddit + sectioned lib
-		- hide slow a little slow for the drawer
+		- About from picker broken
 
 	- Update comment search to use the new design
 	- Update search bottomsheet to use the new design
-	- Unify the color of all FABs
-
-	- Settings
-		- Overhaul settings
-		- Add new section for monet themes
-		- Comment customization toolbar flashing
-		- Top banners clickable in settings for some reason
-		- Back button broken in settings
-		- Add button to restore settings
 
 	- Hook up new chipbar!!
 		- ~~Defaults~~
@@ -50,18 +47,19 @@
 	- ColorUtils.setAlphaComponent
 
 	- Chipbar for comments
-	- ImageSpanUtils
 	- Volume indicator broken on inline gifs
 
 	- Revert minimal awards are now the default
 	- Revert minimal post flair is now the default
 
-	- Style positive and negative buttons
-
 
 ## TODO
 
+### Posts
+	- Make sure the divider is still working
+
 ### Messaging
+	- Setup new views for messaging
 	- Need to set the target ID for messaging header
 	- Messaging padding at top too large
 
@@ -84,20 +82,10 @@
 	- Optimise the post adapter
 	- Update icon in CasualActivity to be "up"
 
-### Monet
-	- Build a new theme manager
-	- Hook up night mode
-	- SelftextPreviewHolder needs updating to Monet
-	- Add a new section to themes "Content highlight color"
-
 ### Basics
 	- Hook up messaging
 	- Hook up moderator
 	- Hook up profiles
-
-### Performance
-	- Switch videos to their own view type
-	- Unify SubView and ProfileView
 	
 ### New toolbar
 	- Add droop down to the small toolbar
@@ -108,8 +96,6 @@
 
 ### Drawer
 	- Add in night mode changer to the drawer
-
-### Drawer
 	- Add in account changer
 
 ### Important
@@ -137,7 +123,8 @@
 ### Small issues
 	- Remove any references to the old save logo
 
-
+### Monet
+	- Add additional theming options
 
 ### Post launch
 	- New app icon
