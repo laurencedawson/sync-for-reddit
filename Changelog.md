@@ -75,3 +75,4 @@ Sync v22.1
 - Removed com.reddit:indicator-fast-scroll
 - Removed sectionedrecyclerviewadapter
 - Removed gif-drawable
+- Removed androidx.palette:palette
