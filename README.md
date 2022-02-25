@@ -6,21 +6,14 @@
 
 ## Work in progress
 
+	### Drawer
+		- Add in account changer
 
-	- Settings
-		- Comment customization toolbar flashing
-		- Top banners clickable in settings for some reason
+	### Misc
+		- Delete custom positive button and negative button (use the new component)
 
-	Profiles
+	### Profiles
 		- Design new comment slide holder
-		- 
-
-	- Style positive and negative buttons
-	- Unify the color of all FABs
-
-	- Bugs
-		- Nav bar not fully hiding when scrolling
-		- About from picker broken
 
 	- Update comment search to use the new design
 	- Update search bottomsheet to use the new design
@@ -91,23 +84,18 @@
 	- Add droop down to the small toolbar
 	- Decide what to do with the large header on click
 
-### Comments
-	- 
-
-### Drawer
-	- Add in night mode changer to the drawer
-	- Add in account changer
-
 ### Important
 	- Fix all the flags to add | PendingIntent.FLAG_IMMUTABLE
 
 ### Paused
-	- Add animation when showing the collapsed toolbar (maybe a fade)
 	- Sidebar should comeback as a sidebar
 	- Check profile bottom sheet
 
+### Bugs
+	- Nav bar not fully hiding when scrolling
+	- About from picker broken
+
 ### Known issues
-	- Toolbar icons mess up when changing theme
 	- Dividers arent shown inbetween comments in the comment search bottomsheet
 
 ### Internal
@@ -139,3 +127,4 @@
 	- What chips can be shown at the top of frontpage and all?
 	- Need a clear way to show the default subreddit
 	- Where to start autoplaying videos
+	- How to expand the "refine" section under themes

@@ -3,10 +3,11 @@ Sync v22.1
 
 ## New
 
+- A new Monet based themeing engine
+	- When following the system color Sync will automatically update the colors if the system changes
 - Added themed icon support for A13
 - Swapped to a completely new image manager (bye bye IO Exception)
 - Overhauled the settings with Monet theming
-- A new Monet based themeing engine
 - Slides have been redesigned from the ground up (should be faster!)
 - Slides now have subreddit icons
 - Slides now have Twitter previews
@@ -40,7 +41,8 @@ Sync v22.1
 - Colourful quotes are now disabled by default
 - Deepzoom now has a default of 200dpi
 - Sticky posts now feature an icon instead of changing the title color
-- 
+- Preferences are now locked to portrait
+- The search bottomsheet is now for searching posts
 
 ## Fixes
 
