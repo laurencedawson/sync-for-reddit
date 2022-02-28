@@ -49,6 +49,7 @@ Sync v22.1
 - Sticky posts now feature an icon instead of changing the title color
 - Preferences are now locked to portrait
 - The search bottomsheet is now for searching posts
+- The archived/np/locked banner now scrolls again
 
 ## Fixes
 
