@@ -6,8 +6,8 @@
 
 ## Work in progress
 
-	### Drawer
-		- Add in account changer
+	### Important
+		- Fix all the flags to add | PendingIntent.FLAG_IMMUTABLE
 
 	### Messaging
 		- Setup new views for messaging
@@ -54,6 +54,7 @@
 ### Posts 
 	- Update post adapter to use the UI mode
 	- Optimise the post adapter
+	- Hook up and test alt post types
 
 ### Basics
 	- Hook up moderator
@@ -61,9 +62,6 @@
 ### New toolbar
 	- Add droop down to the small toolbar
 	- Decide what to do with the large header on click
-
-### Important
-	- Fix all the flags to add | PendingIntent.FLAG_IMMUTABLE
 
 ### Bugs
 	- Nav bar not fully hiding when scrolling

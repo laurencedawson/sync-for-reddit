@@ -21,5 +21,5 @@
 - Monitor System.err
 
 ### Onboarding ideas
-	- Select flair display type
-	- Select award display type
+- Select flair display type
+- Select award display type
