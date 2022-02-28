@@ -1,3 +1,9 @@
+## Links
+
+- [TODO](https://todo.syncforreddit.com)
+- [Changelog](https://todo.syncforreddit.com/changelog)
+- [Beta discussion](https://todo.syncforreddit.com/discussion)
+
 Sync v22.1
 -----
 
@@ -60,7 +66,7 @@ Sync v22.1
 
 ## Internal
 
-- Now targeting Android 12
+- Now targeting Android 12 (and testing on A13)
 - Updated Exoplayer to v2.16.1
 - Swapped out Glide to Picasso	
 - Updated WorkManager to v2.7.1
