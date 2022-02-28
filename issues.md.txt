@@ -1,0 +1,4 @@
+## Release issues
+
+- Comment nav bar
+- Short scores
