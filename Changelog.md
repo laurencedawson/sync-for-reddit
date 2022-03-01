@@ -4,6 +4,20 @@
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 - [Beta discussion](https://todo.syncforreddit.com/discussion)
 
+-----
+
+### Sync v22.3.2
+
+## Changes
+- 
+
+## Fixes
+- 
+
+## Updates
+- 
+
+
 ### Sync v22.3.1
 
 ## Changes

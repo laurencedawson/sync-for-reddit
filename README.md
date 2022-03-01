@@ -1,12 +1,24 @@
 ## Links
 
 - [TODO](https://todo.syncforreddit.com)
-- [Changelog](https://todo.syncforreddit.com/changelog)
+- [Changelog](https://todo.syncforreddit.com/Changelog)
 - [Beta discussion](https://todo.syncforreddit.com/discussion)
 
 ## Work in progress
 
-	- Alpha release
+- Look into updating all newer java calls in the palette lib
+- Comment nav bar
+- Short scores
+- Push notification not using same slider
+- exoplayer keeping alive
+- Pull to refresh on a sub starts from the cards rather than the sub forehead
+- The counts at the top of a sub flicker
+- Popup memus rounded
+- Mark as read on scroll
+- Selftext thumbnail not clickable	
+- Disable rounded corners for full width cards
+- when viewing a single comment, extra padding should be applied to the list
+	
 
 ## TODO
 
