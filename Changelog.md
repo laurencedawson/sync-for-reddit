@@ -1,11 +1,40 @@
 ## Links
 
 - [TODO](https://todo.syncforreddit.com)
-- [Changelog](https://todo.syncforreddit.com/changelog)
+- [Changelog](https://todo.syncforreddit.com/Changelog)
 - [Beta discussion](https://todo.syncforreddit.com/discussion)
 
-Sync v22.1
------
+### Sync v22.3.1
+
+## Changes
+- The version code now uses day of month too
+- Removed the expand icon in the small toolbar
+- Clickable inline links are no longer colored (domain & username)
+- Attempting to change view now displays a message
+- Voting + comment chip is now the same size as the post description
+- Extra padding adding to the drawer FAB
+- Inline link spans no longer use the link color
+- Reset the key for showing labels in the bottom navigation
+
+## Fixes
+- Fixed the link underline issue
+- Fixed a bug that would cause posts to display under the bottom nav (when autohide was disabled)
+- Fixed a crash when leaving the app too quickly
+- Fixed a crash when loading bottomsheets
+- Fixed a crash when opening messaging
+- Fixed a crash when re-arranging favs
+- Fixed an issue causing search recents to have the wrong popup menu
+- Fixed an issue where the old swipe to hide would conflict with the new post actions
+- Fixed a crash when applying a tag
+- Fixed a crash when starting the app
+- Fixed a crash when generating a monet palette
+
+## Updates
+- com.google.android.material:material to 1.6.0-alpha03
+- com.google.android.exoplayer:exoplayer-core to 2.17.0
+
+
+### Sync v22.1
 
 ## New
 
@@ -69,7 +98,7 @@ Sync v22.1
 
 - Now targeting Android 12 (and testing on A13)
 - Updated Exoplayer to v2.16.1
-- Swapped out Glide to Picasso	
+- All images are now handled by Picasso
 - Updated WorkManager to v2.7.1
 - Removed MultiDex
 - Removed GSON

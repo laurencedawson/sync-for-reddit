@@ -1,10 +1,26 @@
 ## Release issues
 
+- Look into updating all newer java calls in the palette lib
 - Comment nav bar
 - Short scores
-- Remove sticky from settings
-- Strange underlining of authors
 - Push notification not using same slider
-- remove dropdown from comments
 - exoplayer keeping alive
-- tapping tag crashes for some reason
+- Pull to refresh on a sub starts from the cards rather than the sub forehead
+- The counts at the top of a sub flicker
+- Popup memus rounded
+- mark as read on scroll
+- selftext thumbnail not clickable	
+- disable rounded corners for full width cards
+- when viewing a single comment, extra padding should be applied to the list
+	
+
+### v22.3.2
+
+## Changes
+- 
+
+## Fixes
+- 
+
+## Updates
+- 
