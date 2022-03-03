@@ -10,6 +10,7 @@
 
 ## Changes
 - Added all view types back in (apart from swipe)
+- Added AMOLED mode (Settings > Dark mode > AMOLED)
 - Expanded the view options for slides (give it a try)
 - Added an option to disable subreddit icons
 - Added random to the default chips
@@ -19,6 +20,8 @@
 - List is now even more compact
 - Added extra padding to the bottom of the comments list when viewing a single comment
 - The expanded toolbar is a little ^smaller
+- Message style has been changed for nested messages
+- When the FAB is configured to use "more actions" it now shows the sync icon
 
 ## Fixes
 - Fixed a critical issue where text links were not clickable

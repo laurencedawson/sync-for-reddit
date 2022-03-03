@@ -6,20 +6,11 @@
 
 ## Work in progress
 
-### View types
-	- Cards missing thumbnail not showing at all (cards)
-	- test messages under different view types
-	- add bit in settings to change view type
-
-
-
 - Icons for user, OP, friend
+
 - add option to move position of image for slide
-
 - Sidebar...
-- AMOLED
 - Monet more contrast in night mode
-
 - thumbnail clickable from comments
 - Icons in comment nav bar need themeing
 - Look into updating all newer java calls in the palette lib
@@ -77,6 +68,7 @@
 	- Remove LegacyCustomImageView
 	- Delete slideimagewrapper
 	- Revisit how missing thumbnails are generated
+	- Refactor all GradientDrawable backgrounds
 
 ### Small issues
 	- Remove any references to the old save logo
