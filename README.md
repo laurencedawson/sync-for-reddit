@@ -6,6 +6,22 @@
 
 ## Work in progress
 
+### View types
+	- Cards missing thumbnail not showing at all (cards)
+	- test messages under different view types
+	- add bit in settings to change view type
+
+
+
+- Icons for user, OP, friend
+- add option to move position of image for slide
+
+- Sidebar...
+- AMOLED
+- Monet more contrast in night mode
+
+- thumbnail clickable from comments
+- Icons in comment nav bar need themeing
 - Look into updating all newer java calls in the palette lib
 - Comment nav bar
 - Short scores
@@ -17,7 +33,9 @@
 - Mark as read on scroll
 - Selftext thumbnail not clickable	
 - Disable rounded corners for full width cards
-- when viewing a single comment, extra padding should be applied to the list
+- Long press to open post in new window
+- Short scores for the chip
+- hide read doesnt dismiss the current video
 	
 
 ## TODO
@@ -26,8 +44,8 @@
 	- Comment search + new design
 
 ### Cards
-	- Hook up the new inline video player for cards	
-	- Add the new pinned posts header
+	- Autoplay for cards
+	- Swipe actions need rounded corners
 
 ### Posts 
 	- Update post adapter to use the UI mode

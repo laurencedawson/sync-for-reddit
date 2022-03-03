@@ -6,13 +6,26 @@
 
 -----
 
-### Sync v22.3.2
+### Sync v22.3.3
 
 ## Changes
-- 
+- Added all view types back in (apart from swipe)
+- Expanded the view options for slides (give it a try)
+- Added an option to disable subreddit icons
+- Added random to the default chips
+- Reduced the alpha of a selected comment overdraw
+- The search icon is no longer shown in the app bar
+- Compact and smaller cards now have rounded thumbnails
+- List is now even more compact
+- Added extra padding to the bottom of the comments list when viewing a single comment
+- The expanded toolbar is a little ^smaller
 
 ## Fixes
-- 
+- Fixed a critical issue where text links were not clickable
+- Fixed an issue with spoilers not rendering
+- Fixed an issue with the subreddit showing in comments
+- Full width images no longer have rounded corners
+- Increased the left margin when no icon is shown in the toolbar
 
 ## Updates
 - 
