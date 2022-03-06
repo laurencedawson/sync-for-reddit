@@ -6,7 +6,7 @@
 
 -----
 
-# Sync v22.3.4
+# Sync v22.3.6
 
 ## Changes
 
@@ -16,11 +16,23 @@
 - Updated the style of the bottom loading bar (color + position)
 - Popup menus now have rounded corners
 - Messaging has been renamed to "inbox"
+- Added "Inbox" and "Subs" to the quick actions (disabled by default)
+- Long pressing the quick actions FAB will now perform the first selected action again
+- Pinned post icons now show with the link color
+- Added the option to move the image before title back for slides
+- Changed the load / share icons in monet theme section
+- Added a dropdown label next to the subreddit flair chip
 
 ### Fixes
 - Fixed an issue that would cause the expanded toolbar to lose its position when changing between posts and messages
 - Fixed an animation related crash
 - Fixed an issue with a space showing on posts after inputting text...
+- Mark as read on scroll has been added back in
+- Fixed a crash when drawing a recycled animated emote
+- Fixed an issue where the comment nav bar wouldn't show with no comments
+- Fixed an issue where text was not visible in dark mode when selecting text
+- Fixed an issue where domains were not showing for compact views
+- Fixed an issue where clicking the hide button on a post kept the video playing
 
 ## Internal
 - Unified all "post comments" into a single ViewHolder (comments in a profile or sub)

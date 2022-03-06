@@ -13,7 +13,6 @@
 - Selftext thumbnail not clickable	
 
 - add messaging and profile to actions
-- add option to move position of image for slide
 - Sidebar...
 - Monet more contrast in night mode
 - thumbnail clickable from comments
@@ -23,7 +22,6 @@
 - Push notification not using same slider
 - exoplayer keeping alive
 - The counts at the top of a sub flicker
-- Mark as read on scroll
 - Long press to open post in new window
 - Short scores for the chip
 - comment nav can get stuck when you tag someone
@@ -31,6 +29,8 @@
 - Show currently picked sub in the picker	
 - issue https://www.reddit.com/r/redditsync/comments/t671kf/bug_using_the_keyboard_while_viewing_posts_eg_to/hzgwq9g/?context=3	
 - friend chip not working
+- Potential jank when hiding extended toolbar
+- Add more details to profile bottomsheet	
 
 
 ## TODO
