@@ -14,6 +14,8 @@
 - Added a little sync outline icon whenever ljdawson is shown
 - Updated the style of the bottom loading bar (color + position)
 - Popup menus now have rounded corners
+- Messaging has been renamed to "inbox"
+- Replaced username highlighting with icons
 
 ### Fixes
 - Fixed an issue that would cause the expanded toolbar to lose its position when changing between posts and messages
