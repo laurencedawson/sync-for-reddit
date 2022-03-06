@@ -6,7 +6,7 @@
 
 -----
 
-### Sync v22.3.4
+# Sync v22.3.4
 
 ## Changes
 
@@ -26,8 +26,9 @@
 - Unified all "post comments" into a single ViewHolder (comments in a profile or sub)
 - Disabled "supportsPredictiveItemAnimations" in LinearLayoutManager to fix a longstanding issue
 
+-----
 
-### Sync v22.3.3
+# Sync v22.3.3
 
 ## Changes
 - Added all view types back in (apart from swipe)
@@ -55,7 +56,7 @@
 -----
 
 
-### Sync v22.3.1
+# Sync v22.3.1
 
 ## Changes
 - The version code now uses day of month too
@@ -88,7 +89,7 @@
 -----
 
 
-### Sync v22.1
+# Sync v22.1
 
 ## New
 
