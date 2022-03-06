@@ -6,6 +6,25 @@
 
 -----
 
+### Sync v22.3.4
+
+## Changes
+
+- Fixed an issue with missing scores on compact views
+- Added a little sync outline icon whenever ljdawson is shown
+- Updated the style of the bottom loading bar (color + position)
+- Popup menus now have rounded corners
+
+### Fixes
+- Fixed an issue that would cause the expanded toolbar to lose its position when changing between posts and messages
+- Fixed an animation related crash
+- Fixed an issue with a space showing on posts after inputting text...
+
+## Internal
+- Unified all "post comments" into a single ViewHolder (comments in a profile or sub)
+- Disabled "supportsPredictiveItemAnimations" in LinearLayoutManager to fix a longstanding issue
+
+
 ### Sync v22.3.3
 
 ## Changes
@@ -30,8 +49,8 @@
 - Full width images no longer have rounded corners
 - Increased the left margin when no icon is shown in the toolbar
 
-## Updates
-- 
+
+-----
 
 
 ### Sync v22.3.1
@@ -62,6 +81,9 @@
 ## Updates
 - com.google.android.material:material to 1.6.0-alpha03
 - com.google.android.exoplayer:exoplayer-core to 2.17.0
+
+
+-----
 
 
 ### Sync v22.1
