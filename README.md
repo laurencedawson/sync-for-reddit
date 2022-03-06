@@ -6,8 +6,6 @@
 
 ## Work in progress
 
-- Icons for user, OP, friend
-
 - Add rounded corners back to slides
 - inconsistent save icon
 - Inconsistent vote icons (posts v slides)
