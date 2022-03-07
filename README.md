@@ -6,20 +6,17 @@
 
 ## Work in progress
 
+- Monet more contrast in night mode
+
 - Add rounded corners back to slides
-- inconsistent save icon
 - Inconsistent vote icons (posts v slides)
 - option to disable fab in comments
-- Selftext thumbnail not clickable	
 
 - add messaging and profile to actions
 - Sidebar...
-- Monet more contrast in night mode
-- thumbnail clickable from comments
 - Icons in comment nav bar need themeing
 - Comment nav bar
 - Short scores
-- Push notification not using same slider
 - exoplayer keeping alive
 - The counts at the top of a sub flicker
 - Long press to open post in new window
@@ -54,6 +51,7 @@
 
 ### Known issues
 	- Dividers arent shown inbetween comments in the comment search bottomsheet
+	- Requires a restart to change text font / sizes
 
 ### Refactoring
 	- Delete ProfileBottomSheetFragment
@@ -74,9 +72,6 @@
 	- Refactor all GradientDrawable backgrounds
 	- Look into updating all newer java calls in the palette lib
 
-
-### Small issues
-	- Remove any references to the old save logo
 
 ### Bigger issues
 	- Expand mod https://www.reddit.com/r/Android/comments/t6iz4l/sync_for_reddit_is_getting_a_complete_material/hzc6g0b/?context=3

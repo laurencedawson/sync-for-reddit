@@ -6,6 +6,26 @@
 
 -----
 
+# Sync v22.3.7
+
+## Changes
+- OP icon has been updated & OP now highlights again
+- All comment icons are now filled in
+- Added a return to top FAB in the bottom nav subreddit picker
+- Moved "open in new window" above fav in the subreddit menu
+
+### Fixes
+- The "push" preference has been updated to use the new switch style
+- Fixed an issue where selftext images might fail to load on peek
+- Fixed an issue where selftext images were not clickable
+- Spoilers no longer autoplay (duhh)
+
+## Internal
+- Removed all traces of the old "accent color"
+- Updated save to be the same everywhere
+
+-----
+
 # Sync v22.3.6
 
 ## Changes
