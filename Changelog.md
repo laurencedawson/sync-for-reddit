@@ -9,10 +9,13 @@
 # Sync v22.3.7
 
 ## Changes
+- Secondary text is now a little lighter in dark mode
 - OP icon has been updated & OP now highlights again
 - All comment icons are now filled in
 - Added a return to top FAB in the bottom nav subreddit picker
 - Moved "open in new window" above fav in the subreddit menu
+- Voting chip colors are a little darker now
+- Voting chip now has a min width
 
 ### Fixes
 - The "push" preference has been updated to use the new switch style

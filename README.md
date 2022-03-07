@@ -6,11 +6,9 @@
 
 ## Work in progress
 
-- Monet more contrast in night mode
-
+- option to disable fab in comments
 - Add rounded corners back to slides
 - Inconsistent vote icons (posts v slides)
-- option to disable fab in comments
 
 - add messaging and profile to actions
 - Sidebar...
@@ -28,6 +26,7 @@
 - friend chip not working
 - Potential jank when hiding extended toolbar
 - Add more details to profile bottomsheet	
+- Submit shows a legacy alertdialog
 
 
 ## TODO
