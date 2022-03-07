@@ -19,6 +19,9 @@
 - Fixed an issue where selftext images might fail to load on peek
 - Fixed an issue where selftext images were not clickable
 - Spoilers no longer autoplay (duhh)
+- Fixed a few incorrect context crashes
+- Fixed a crash when starting with biometrics enabled
+- Added a potential fix for posts list crash
 
 ## Internal
 - Removed all traces of the old "accent color"
