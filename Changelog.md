@@ -6,6 +6,19 @@
 
 -----
 
+# Sync v22.3.8
+
+## Changes
+- 
+
+### Fixes
+- 
+
+## Internal
+- 
+
+-----
+
 # Sync v22.3.7
 
 ## Changes
@@ -30,6 +43,10 @@
 - Fixed a few incorrect context crashes
 - Fixed a crash when starting with biometrics enabled
 - Added a potential fix for posts list crash
+- Fixed displaying short scores in slides
+- The current sub is now highlighted again in the subreddit picker / drawer
+- Fixed an issue where the subreddit icon would used a cached value
+- Fixed a rendering issue with tables in comments
 
 ## Internal
 - Removed all traces of the old "accent color"

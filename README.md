@@ -6,19 +6,21 @@
 
 ## Work in progress
 
+- contextual chips
+- explore (merging picker and search)
+- monet refine!!!
+- What to do if expanded toolbar is disabled
+
+
 - option to disable fab in comments
 - Add rounded corners back to slides
 - Inconsistent vote icons (posts v slides)
-
-- add messaging and profile to actions
 - Sidebar...
 - Icons in comment nav bar need themeing
 - Comment nav bar
-- Short scores
 - exoplayer keeping alive
 - The counts at the top of a sub flicker
 - Long press to open post in new window
-- Short scores for the chip
 - comment nav can get stuck when you tag someone
 - Profile pics not aligned in comments
 - Show currently picked sub in the picker	
