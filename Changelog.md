@@ -16,6 +16,11 @@
 - Moved "open in new window" above fav in the subreddit menu
 - Voting chip colors are a little darker now
 - Voting chip now has a min width
+- Added … to selftext previews
+- Updated the search settings to use the new themeing
+- Preferences now use the themed ripple
+- Added an option to disable emotes
+- Added an option to disable animated image comments
 
 ### Fixes
 - The "push" preference has been updated to use the new switch style
