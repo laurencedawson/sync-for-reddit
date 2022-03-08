@@ -9,10 +9,14 @@
 # Sync v22.3.8
 
 ## Changes
+- Added support for inline selftext image
+- Added a new dark mode option "Dark overlay"
+	- Decrease the screen brightness by 60% when in dark mode
+	- Useful for bedtime browsing and not destroying your retinas
 - 
 
 ### Fixes
-- 
+- Fixed an issue where inline image previews couldn't be disabled
 
 ## Internal
 - 

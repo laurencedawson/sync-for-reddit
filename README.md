@@ -6,8 +6,10 @@
 
 ## Work in progress
 
+- inline images & twitch
 - contextual chips
 - explore (merging picker and search)
+	- long press to open search
 - monet refine!!!
 - What to do if expanded toolbar is disabled
 
