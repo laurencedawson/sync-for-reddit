@@ -6,14 +6,16 @@
 
 ## Work in progress
 
-- inline images & twitch
+- Twitch
 - contextual chips
 - explore (merging picker and search)
 	- long press to open search
 - monet refine!!!
 - What to do if expanded toolbar is disabled
+- Remove short links
 
 
+- When bottom nav is disabled, move where the bottom progress bar is
 - option to disable fab in comments
 - Add rounded corners back to slides
 - Inconsistent vote icons (posts v slides)
@@ -74,6 +76,7 @@
 	- Revisit how missing thumbnails are generated
 	- Refactor all GradientDrawable backgrounds
 	- Look into updating all newer java calls in the palette lib
+	- Old dialog when submitting + selecting images
 
 
 ### Bigger issues

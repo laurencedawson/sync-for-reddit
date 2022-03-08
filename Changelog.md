@@ -4,6 +4,20 @@
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 - [Beta discussion](https://todo.syncforreddit.com/discussion)
 
+
+-----
+
+# Sync v22.3.9
+
+## Changes
+- 
+
+### Fixes
+- 
+
+## Internal
+- 
+
 -----
 
 # Sync v22.3.8
@@ -13,10 +27,15 @@
 - Added a new dark mode option "Dark overlay"
 	- Decrease the screen brightness by 60% when in dark mode
 	- Useful for bedtime browsing and not destroying your retinas
-- 
+- Removed spaces in-between image flairs
 
 ### Fixes
 - Fixed an issue where inline image previews couldn't be disabled
+- Fixed an issue with posts not loading at the end of a list
+- Fixed an issue causing the posts list to occasionally keep inertia when infinite scrolling
+- Added another potential fix to help with the posts list crashing
+- Fixed an old reference to the saved icon in the quick actions
+- Fixed a video playback issue (would start in the background)
 
 ## Internal
 - 
