@@ -25,6 +25,7 @@
 	- Check that Crashlytics is working right...
 - Enable play store install checker 
 - Monitor System.err
+- V IMPORTANT check in-app purchase to remove ads
 
 ### Onboarding ideas
 - Select flair display type

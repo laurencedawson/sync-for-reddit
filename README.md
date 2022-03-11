@@ -6,6 +6,11 @@
 
 ## Work in progress
 
+- Tablet
+	- Scroll to top broken
+	- Image height broken
+	- Settings
+
 - Twitch
 - contextual chips
 - explore (merging picker and search)
@@ -13,7 +18,7 @@
 - monet refine!!!
 - What to do if expanded toolbar is disabled
 - Remove short links
-
+- Rename messaging bits in the drawer
 
 - When bottom nav is disabled, move where the bottom progress bar is
 - option to disable fab in comments
@@ -33,6 +38,8 @@
 - Potential jank when hiding extended toolbar
 - Add more details to profile bottomsheet	
 - Submit shows a legacy alertdialog
+
+- FIX MOBPUB ADAPTER HELPER
 
 
 ## TODO

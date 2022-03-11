@@ -7,12 +7,26 @@
 
 -----
 
-# Sync v22.3.9
+# Sync v22.3.11
+
+## Tablet
+- The account picker is now much smaller
 
 ## Changes
-- 
+- Increased the brightness of the primary text color in night mode
+- Selftext previews now once again mark as visited
+- Twitter previews now mark as read
+- Settings are no longer locked to portrait
+- Added search back in as a drawer item
+- Disabled the comment open transition by default (default feels snappier)
+- Huge refactoring to the Main/Casual activity
+	- I don't think I've broken any navigation but please let me know...
+- Pressing posts / messaging in the right section and scrolling to top will now show the restore snackbar
+- Reverted the new message icon back to +
 
 ### Fixes
+- Fixed a crash when setting a sub thumbnail
+- Fixed a crash when setting flair
 - 
 
 ## Internal
