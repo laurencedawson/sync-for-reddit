@@ -11,6 +11,7 @@
 
 ## Tablet
 - The account picker is now much smaller
+- Added tabbed comments!
 
 ## Changes
 - Increased the brightness of the primary text color in night mode
@@ -23,11 +24,12 @@
 	- I don't think I've broken any navigation but please let me know...
 - Pressing posts / messaging in the right section and scrolling to top will now show the restore snackbar
 - Reverted the new message icon back to +
+- The ripple in settings search is now the same as elsewhere in settingsx
 
 ### Fixes
 - Fixed a crash when setting a sub thumbnail
 - Fixed a crash when setting flair
-- 
+- Fixed a list restore state issue
 
 ## Internal
 - 

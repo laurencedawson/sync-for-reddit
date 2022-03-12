@@ -7,9 +7,9 @@
 ## Work in progress
 
 - Tablet
-	- Scroll to top broken
-	- Image height broken
 	- Settings
+	- Scroll to top broken
+	- Image height broken in cards
 
 - Twitch
 - contextual chips
