@@ -7,7 +7,6 @@
 ## Work in progress
 
 - Tablet
-	- Add new section in settings for tablet
 	- Scroll to top broken
 	- Image height broken in cards
 	- messaging

@@ -35,6 +35,11 @@
 ## Internal
 - 
 
+## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/374
+- https://github.com/laurencedawson/sync-for-reddit/issues/385
+- 
+
 -----
 
 # Sync v22.3.8
