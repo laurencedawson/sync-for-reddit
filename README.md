@@ -7,9 +7,10 @@
 ## Work in progress
 
 - Tablet
-	- Settings
+	- Add new section in settings for tablet
 	- Scroll to top broken
 	- Image height broken in cards
+	- messaging
 
 - Twitch
 - contextual chips

@@ -7,11 +7,12 @@
 
 -----
 
-# Sync v22.3.11
+# Sync v22.3.13
 
 ## Tablet
 - The account picker is now much smaller
 - Added tabbed comments!
+- Settings is now dual pane on tablets
 
 ## Changes
 - Increased the brightness of the primary text color in night mode
