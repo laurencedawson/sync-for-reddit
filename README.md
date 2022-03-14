@@ -6,19 +6,11 @@
 
 ## Work in progress
 
-- Tablet
-	- Scroll to top broken
-	- Image height broken in cards
-	- messaging
-
-- Twitch
-- contextual chips
+- Add dropdown icon next to small toolbar again
+- refresh should go to top of list first
 - explore (merging picker and search)
 	- long press to open search
 - monet refine!!!
-- What to do if expanded toolbar is disabled
-- Remove short links
-- Rename messaging bits in the drawer
 
 - When bottom nav is disabled, move where the bottom progress bar is
 - option to disable fab in comments
@@ -38,8 +30,9 @@
 - Potential jank when hiding extended toolbar
 - Add more details to profile bottomsheet	
 - Submit shows a legacy alertdialog
-
+- Twitch
 - FIX MOBPUB ADAPTER HELPER
+- "Long press cards to open comments in the background doesn't seem to be working for the Slides view type"
 
 
 ## TODO
@@ -59,11 +52,12 @@
 ### Bugs
 	- Nav bar not fully hiding when scrolling
 	- Volume indicator broken on inline gifs
-	- Search in settings has a bugged toolbar
+	- Scroll to top broken (in tablets)
 
 ### Known issues
 	- Dividers arent shown inbetween comments in the comment search bottomsheet
 	- Requires a restart to change text font / sizes
+	- When a bottomsheet dialog is shown and the display is off, it doesn't theme
 
 ### Refactoring
 	- Delete ProfileBottomSheetFragment

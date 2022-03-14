@@ -4,17 +4,39 @@
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 - [Beta discussion](https://todo.syncforreddit.com/discussion)
 
+-----
+
+# Sync v22.3.15
+
+## New
+- 
+
+## Changes
+- 
+
+### Fixes
+- 
+
+## Internal
+- 
+
+## Closed
+- 
 
 -----
 
-# Sync v22.3.13
+# Sync v22.3.14
 
 ## Tablet
-- The account picker is now much smaller
+- Added support for a new tablet mode with side navigation rail
+- Added support for dual pane in portrait & landscape
 - Added tabbed comments!
-- Settings is now dual pane on tablets
+- The account picker is now much smaller
+- Settings now respect the dual pane mode
 
 ## Changes
+- Added "contextual chips" back in as an option for the "more actions" bottomsheet
+- *If the expanded toolbar is disabled, contextual chips are now always shown*
 - Increased the brightness of the primary text color in night mode
 - Selftext previews now once again mark as visited
 - Twitter previews now mark as read
@@ -25,7 +47,9 @@
 	- I don't think I've broken any navigation but please let me know...
 - Pressing posts / messaging in the right section and scrolling to top will now show the restore snackbar
 - Reverted the new message icon back to +
-- The ripple in settings search is now the same as elsewhere in settingsx
+- The ripple in settings search is now the same as elsewhere in settings
+- Renamed sections of messaging in the drawer to match the bottom navigation
+- Removed redd.it link shortening
 
 ### Fixes
 - Fixed a crash when setting a sub thumbnail
@@ -38,7 +62,9 @@
 ## Closed
 - https://github.com/laurencedawson/sync-for-reddit/issues/374
 - https://github.com/laurencedawson/sync-for-reddit/issues/385
-- 
+- https://github.com/laurencedawson/sync-for-reddit/issues/629
+- https://github.com/laurencedawson/sync-for-reddit/issues/731
+- https://github.com/laurencedawson/sync-for-reddit/issues/541
 
 -----
 
