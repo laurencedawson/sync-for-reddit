@@ -6,6 +6,28 @@
 
 -----
 
+# Sync v22.3.16
+
+## New
+- 
+
+## Changes
+- 
+
+### Fixes
+- 
+
+## Internal
+- 
+
+## Updates
+- 
+
+## Closed
+- 
+
+-----
+
 # Sync v22.3.15
 
 ## New
@@ -45,7 +67,6 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/652
 - https://github.com/laurencedawson/sync-for-reddit/issues/653
 - https://github.com/laurencedawson/sync-for-reddit/issues/640
-- 
 
 -----
 

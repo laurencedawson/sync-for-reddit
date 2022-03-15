@@ -7,6 +7,7 @@
 ## Work in progress
 
 ### Missing
+- Adjust how bottom nav height is caluclated
 - Comment search
 - Mod tools
 
