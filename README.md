@@ -9,15 +9,12 @@
 ### Missing
 - Comment search
 - Mod tools
-- Unify search and subreddits
 
+- quick action for dark overlay
 - back in dual pane should close that comments view
 - Add dropdown icon next to small toolbar again
 - refresh should go to top of list first
-- explore (merging picker and search)
-	- long press to open search
 - monet refine!!
-- quick action for dark overlay
 
 - When bottom nav is disabled, move where the bottom progress bar is
 - option to disable fab in comments
@@ -26,7 +23,6 @@
 - Sidebar...
 - Icons in comment nav bar need themeing
 - Comment nav bar
-- exoplayer keeping alive
 - The counts at the top of a sub flicker
 - Long press to open post in new window
 - comment nav can get stuck when you tag someone

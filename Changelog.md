@@ -9,11 +9,14 @@
 # Sync v22.3.15
 
 ## New
+- Search and subs have been unified into "Explore"
 - Added icons for archived and locked posts
 - Added the experimental option to open chrome custom tabs incognito
 
 ## Changes
 - Increased the number of "top posts" to 25
+- Increased the clickable region to activate the search box at the top of the subreddits picker
+- Removed "search" as an item from the drawer as this can now be access from the existing search
 
 ### Fixes
 - 
