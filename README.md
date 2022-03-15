@@ -6,11 +6,18 @@
 
 ## Work in progress
 
+### Missing
+- Comment search
+- Mod tools
+- Unify search and subreddits
+
+- back in dual pane should close that comments view
 - Add dropdown icon next to small toolbar again
 - refresh should go to top of list first
 - explore (merging picker and search)
 	- long press to open search
-- monet refine!!!
+- monet refine!!
+- quick action for dark overlay
 
 - When bottom nav is disabled, move where the bottom progress bar is
 - option to disable fab in comments
@@ -30,29 +37,23 @@
 - Potential jank when hiding extended toolbar
 - Add more details to profile bottomsheet	
 - Submit shows a legacy alertdialog
-- Twitch
 - FIX MOBPUB ADAPTER HELPER
 - "Long press cards to open comments in the background doesn't seem to be working for the Slides view type"
-
+- Growing chip
 
 ## TODO
-
-### Comments
-	- Comment search + new design
 
 ### Cards
 	- Autoplay for cards
 	- Swipe actions need rounded corners
 
-### Posts 
-	- Update post adapter to use the UI mode
-	- Optimise the post adapter
-	- Hook up and test alt post types
-
 ### Bugs
 	- Nav bar not fully hiding when scrolling
 	- Volume indicator broken on inline gifs
 	- Scroll to top broken (in tablets)
+
+### Missing
+	- Swipe mode
 
 ### Known issues
 	- Dividers arent shown inbetween comments in the comment search bottomsheet
@@ -78,7 +79,3 @@
 	- Refactor all GradientDrawable backgrounds
 	- Look into updating all newer java calls in the palette lib
 	- Old dialog when submitting + selecting images
-
-
-### Bigger issues
-	- Expand mod https://www.reddit.com/r/Android/comments/t6iz4l/sync_for_reddit_is_getting_a_complete_material/hzc6g0b/?context=3

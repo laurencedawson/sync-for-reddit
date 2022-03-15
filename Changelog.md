@@ -9,10 +9,11 @@
 # Sync v22.3.15
 
 ## New
-- 
+- Added icons for archived and locked posts
+- Added the experimental option to open chrome custom tabs incognito
 
 ## Changes
-- 
+- Increased the number of "top posts" to 25
 
 ### Fixes
 - 
@@ -20,7 +21,27 @@
 ## Internal
 - 
 
+## Updates
+- Exoplayer v2.17.1
+
 ## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/143
+- https://github.com/laurencedawson/sync-for-reddit/issues/242
+- https://github.com/laurencedawson/sync-for-reddit/issues/275
+- https://github.com/laurencedawson/sync-for-reddit/issues/323
+- https://github.com/laurencedawson/sync-for-reddit/issues/726
+- https://github.com/laurencedawson/sync-for-reddit/issues/725
+- https://github.com/laurencedawson/sync-for-reddit/issues/748
+- https://github.com/laurencedawson/sync-for-reddit/issues/721
+- https://github.com/laurencedawson/sync-for-reddit/issues/713
+- https://github.com/laurencedawson/sync-for-reddit/issues/705
+- https://github.com/laurencedawson/sync-for-reddit/issues/694
+- https://github.com/laurencedawson/sync-for-reddit/issues/678
+- https://github.com/laurencedawson/sync-for-reddit/issues/637
+- https://github.com/laurencedawson/sync-for-reddit/issues/647
+- https://github.com/laurencedawson/sync-for-reddit/issues/652
+- https://github.com/laurencedawson/sync-for-reddit/issues/653
+- https://github.com/laurencedawson/sync-for-reddit/issues/640
 - 
 
 -----
