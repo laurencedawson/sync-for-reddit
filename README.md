@@ -7,16 +7,19 @@
 ## Work in progress
 
 ### Missing
-- Adjust how bottom nav height is caluclated
-- Comment search
-- Mod tools
 
 - quick action for dark overlay
+- autoplay location
 - back in dual pane should close that comments view
 - Add dropdown icon next to small toolbar again
 - refresh should go to top of list first
 - monet refine!!
+- Need a clear way to show the default subreddit
 
+- "use double width comment indents"
+- Comment dividers
+
+- Adjust how bottom nav height is caluclated
 - When bottom nav is disabled, move where the bottom progress bar is
 - option to disable fab in comments
 - Add rounded corners back to slides
@@ -53,7 +56,6 @@
 	- Swipe mode
 
 ### Known issues
-	- Dividers arent shown inbetween comments in the comment search bottomsheet
 	- Requires a restart to change text font / sizes
 	- When a bottomsheet dialog is shown and the display is off, it doesn't theme
 

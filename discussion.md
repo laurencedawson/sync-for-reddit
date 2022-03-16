@@ -4,10 +4,6 @@
 - [Changelog](https://todo.syncforreddit.com/changelog)
 - [Beta discussion](https://todo.syncforreddit.com/discussion)
 
-### To discuss
-- Need a clear way to show the default subreddit
-- Where to start autoplaying videos
-
 ### Post launch
 - New app icon
 - Monitor System.err
