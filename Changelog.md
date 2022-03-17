@@ -2,29 +2,35 @@
 
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
-- [Beta discussion](https://todo.syncforreddit.com/discussion)
 
 -----
 
 # Sync v22.3.17
 
 ## New
-- 
+- Added "Dark overlay" to the quick actions
+- Enabled large toolbar animations
+- Slides now respect the option "long press to open comments in the background"
 
 ## Changes
-- 
+- Autoplay has been fixed for slides
+- Updated the style of contextual chips
+- The refresh action now scrolls to the top of the list quickly before refreshing
+- The first slide now has rounded corners again
 
 ### Fixes
-- 
+- Fixed an issue with the subreddit description flickering
+- Fixed an issue with screen regions being blank when bottom nav hide was disabled
+- Fixed an issue where the toolbar was autohiding when it shouldn't
 
 ## Internal
-- 
+- You can now preview where autoplay starts (Setting > Developer)
 
 ## Updates
 - 
 
 ## Closed
-- 
+- https://github.com/laurencedawson/sync-for-reddit/issues/760
 
 -----
 
