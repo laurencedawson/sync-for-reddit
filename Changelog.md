@@ -11,17 +11,25 @@
 - Added "Dark overlay" to the quick actions
 - Enabled large toolbar animations
 - Slides now respect the option "long press to open comments in the background"
+- Added an option to disable the comments reply FAB
+- Added a "load color" button to the theme settings page
+- Cards now autoplay again (single column only for now)
+- Added a new animation for the large post toolbar
 
 ## Changes
 - Autoplay has been fixed for slides
 - Updated the style of contextual chips
 - The refresh action now scrolls to the top of the list quickly before refreshing
 - The first slide now has rounded corners again
+- The "Top growing" chip has been replaced with "Change view"
+- Removed the palette icon from the theme settings page
+- Removed the save icon from the theme settings page
 
 ### Fixes
 - Fixed an issue with the subreddit description flickering
 - Fixed an issue with screen regions being blank when bottom nav hide was disabled
 - Fixed an issue where the toolbar was autohiding when it shouldn't
+- Fixed mis-coloring of comment navigation bar icons
 
 ## Internal
 - You can now preview where autoplay starts (Setting > Developer)
