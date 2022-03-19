@@ -3,6 +3,56 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
+
+
+
+-----
+
+# Sync v22.3.19
+
+## Foldable / Tablet
+- Support for large foldable devices (e.g. Fold 3)
+	- When the main display is closed, the navigation rail will automatically become a BottomNavigationBar
+- Slide / card cropped previews are now larger when tablet mode is enabled
+- Tabbed comments are now disabled by default
+- Added an option to force sync to respect additional window insets
+- Tabs are now shown all the time if tab mode is enabled
+- Clicking back on an open comments page now closes that page
+
+## New
+- 
+
+## Changes
+- The comment actions bar is now tinted with monet theming
+- Youtube shorts are now excluded from the in-app YouTube player (do not work...)
+- Tapping the toolbar in settings will now scroll to top
+- CCT preloading is now disabled by default
+
+### Fixes
+- Fixed a bug where changing between folded / open would result in your current section being lost
+- Fixed an issue where the bottom progress bar wouldn't show without bottom nav
+- Fixed an issue where keyboard wouldn't hide after selecting a search result
+- Fixed a few tabbed comments bugs
+- Fixed a bug where tapping the toolbar would return to the top of posts and comments
+- Fixed an issue where clicking a comments tab twice would cause it to close
+- Fixed an issue where the comments reply fab would show on scroll even if disabled
+
+## Internal
+- 
+
+## Updates
+- 
+
+## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/805
+- https://github.com/laurencedawson/sync-for-reddit/issues/757
+- https://github.com/laurencedawson/sync-for-reddit/issues/759
+- https://github.com/laurencedawson/sync-for-reddit/issues/811
+- https://github.com/laurencedawson/sync-for-reddit/issues/809
+- https://github.com/laurencedawson/sync-for-reddit/issues/753
+- https://github.com/laurencedawson/sync-for-reddit/issues/810
+- https://github.com/laurencedawson/sync-for-reddit/issues/777
+
 -----
 
 # Sync v22.3.17
