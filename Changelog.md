@@ -3,8 +3,27 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
+-----
 
+# Sync v22.3.21 (day 1 patch)
 
+## New
+- 
+
+## Changes
+- When tapping a search box in landscape the fullscreen keyboard is no longer shown
+
+### Fixes
+- 
+
+## Internal
+- 
+
+## Updates
+- 
+
+## Closed
+- 
 
 -----
 
@@ -26,7 +45,7 @@
 - The comment actions bar is now tinted with monet theming
 - Youtube shorts are now excluded from the in-app YouTube player (do not work...)
 - Tapping the toolbar in settings will now scroll to top
-- CCT preloading is now disabled by default
+
 
 ### Fixes
 - Fixed a bug where changing between folded / open would result in your current section being lost
