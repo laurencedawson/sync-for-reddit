@@ -3,13 +3,35 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
+# Sync v22.3.22
+
+## New
+- 
+
+## Changes
+- 
+
+### Fixes
+- 
+
+## Internal
+- 
+
+## Updates
+- 
+
+## Closed
+- 
+
 -----
 
 # Sync v22.3.21 (day 1 patch)
 
 ## New
-- Added an option to enable "sliding panel style drawer" in the settings (Settings > Drawer navigation)
-- "Actions" can now be added back into the bottom navigation (Settings > Bottom nav)
+- Added an option to enable "sliding panel style drawer" in the settings (Settings > Experimental)
+- "Actions" can now be added back into the bottom navigation (Settings > Experimental)
+- Long pressing Posts will now take you to your default subreddit
+- Long pressing Inbox will now bring up the compose screen
 
 ## Changes
 - Increased the default size of the slide + card description + comment description
@@ -18,10 +40,12 @@
 - Pinned posts now show as colored along with the pinned icon
 - Tweaked the ripple behaviour when unselecting a comment
 - Disabled the "extended drawer open region" setting by default
-- 
+- Increased the size of the image viewer seek bar & added a little padding left and right
+- Search is now shown in the toolbar if you have bottom nav disabled
 
 ### Fixes
 - Removed the "Example" chip in the Inbox chipgroup
+- Fixed a bug where recents were not scrollable
 
 ## Internal
 - 
@@ -34,6 +58,7 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/820
 - https://github.com/laurencedawson/sync-for-reddit/issues/740
 - https://github.com/laurencedawson/sync-for-reddit/issues/785
+- https://github.com/laurencedawson/sync-for-reddit/issues/822
 
 -----
 

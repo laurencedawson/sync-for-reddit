@@ -5,9 +5,7 @@
 
 
 ### Priority
-	- A-Z back in the subreddit selection
-	- https://github.com/laurencedawson/sync-for-reddit/issues/822
- 	- 
+	- A-Z back in the subreddit selection 
 
 # To log
 	- Advanced insets not working on comments page
