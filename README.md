@@ -9,6 +9,8 @@
 	- https://github.com/laurencedawson/sync-for-reddit/issues/822
  	- 
 
+# To log
+	- Advanced insets not working on comments page
 
 
 ### Refactoring
