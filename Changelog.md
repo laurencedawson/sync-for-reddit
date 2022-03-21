@@ -8,14 +8,20 @@
 # Sync v22.3.21 (day 1 patch)
 
 ## New
-- Added an option to enable "sliding panel style drawer" in the settings
+- Added an option to enable "sliding panel style drawer" in the settings (Settings > Drawer navigation)
+- "Actions" can now be added back into the bottom navigation (Settings > Bottom nav)
 
 ## Changes
+- Increased the default size of the slide + card description + comment description
 - When tapping a search box in landscape the fullscreen keyboard is no longer shown
 - The "Dark overlay" option now shows its selected state in more actions
+- Pinned posts now show as colored along with the pinned icon
+- Tweaked the ripple behaviour when unselecting a comment
+- Disabled the "extended drawer open region" setting by default
+- 
 
 ### Fixes
-- 
+- Removed the "Example" chip in the Inbox chipgroup
 
 ## Internal
 - 
@@ -25,6 +31,9 @@
 
 ## Closed
 - https://github.com/laurencedawson/sync-for-reddit/issues/791
+- https://github.com/laurencedawson/sync-for-reddit/issues/820
+- https://github.com/laurencedawson/sync-for-reddit/issues/740
+- https://github.com/laurencedawson/sync-for-reddit/issues/785
 
 -----
 
