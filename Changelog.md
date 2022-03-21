@@ -8,10 +8,11 @@
 # Sync v22.3.21 (day 1 patch)
 
 ## New
-- 
+- Added an option to enable "sliding panel style drawer" in the settings
 
 ## Changes
 - When tapping a search box in landscape the fullscreen keyboard is no longer shown
+- The "Dark overlay" option now shows its selected state in more actions
 
 ### Fixes
 - 
@@ -23,7 +24,7 @@
 - 
 
 ## Closed
-- 
+- https://github.com/laurencedawson/sync-for-reddit/issues/791
 
 -----
 
