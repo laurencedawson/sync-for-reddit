@@ -9,6 +9,7 @@
 
 # To log
 	- Advanced insets not working on comments page
+	- https://www.reddit.com/r/redditsync/comments/tjo3ey/v22321_beta_release/i1q2ekw/?context=3
 
 
 ### Refactoring
