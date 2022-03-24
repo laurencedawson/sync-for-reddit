@@ -3,6 +3,31 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
+-----
+
+# Sync v22.3.25
+
+## New
+- 
+
+## Changes
+- 
+
+### Fixes
+- 
+
+## Internal
+- 
+
+## Updates
+- 
+
+## Closed
+- 
+- 
+
+-----
+
 # Sync v22.3.24
 
 ## New
