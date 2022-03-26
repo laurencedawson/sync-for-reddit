@@ -14,6 +14,8 @@
 - Swapped the position of actions + explore
 - Added additional padding above the image viewer seek bar to prevent misclicks
 - Inline video playback should now feel snappier and smoother
+- Hide is now always available in the post more menu
+- Removed the "double width comment spacer" option as it no longer did anything
 
 ### Fixes
 - Fixed a crash when restoring backups made in .24 (will require re-setting the color intensity)
@@ -31,6 +33,17 @@
 - Fixed an issue where chevrons in Subreddit Sort panel can not be tapped
 - Fixed an issue where the slider under theme management might be styled incorrectly
 - Fixed an issue where search results would get "stuck" in the drawer or bottomsheet
+- Fixed a crash when long pressing on quick actions with no actions available...
+- Fixed an issue where Random NSFW had incorrect casing in quick actions
+- Fixed an issue where a video could keep potentially playing after being hidden
+- Fixed an issue where search links in comments could potentially crash or not open correctly
+- Fixed an issue where ampersands were not playing nice with search
+- Fixed an issue with spoilers showing in selftext
+- Fixed an issue with the ban activity now styling correctly
+- Fixed an issue where code after a horizontal rule messed up
+- Fixed an issue where adding links in the comments editor could trigger a password manager
+- Fixed an issue where posts might get stuck half way when changing subs
+- Fixed an issue with notifications not being removed when mark as read was clicked
 
 ## Internal
 - 
@@ -39,6 +52,8 @@
 - 
 
 ## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/814
+- https://github.com/laurencedawson/sync-for-reddit/issues/821
 - https://github.com/laurencedawson/sync-for-reddit/issues/911
 - https://github.com/laurencedawson/sync-for-reddit/issues/918
 - https://github.com/laurencedawson/sync-for-reddit/issues/912
@@ -68,8 +83,40 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/507
 - https://github.com/laurencedawson/sync-for-reddit/issues/636
 - https://github.com/laurencedawson/sync-for-reddit/issues/662
-- 
-
+- https://github.com/laurencedawson/sync-for-reddit/issues/646
+- https://github.com/laurencedawson/sync-for-reddit/issues/527
+- https://github.com/laurencedawson/sync-for-reddit/issues/648
+- https://github.com/laurencedawson/sync-for-reddit/issues/545
+- https://github.com/laurencedawson/sync-for-reddit/issues/534
+- https://github.com/laurencedawson/sync-for-reddit/issues/588
+- https://github.com/laurencedawson/sync-for-reddit/issues/589
+- https://github.com/laurencedawson/sync-for-reddit/issues/621
+- https://github.com/laurencedawson/sync-for-reddit/issues/631
+- https://github.com/laurencedawson/sync-for-reddit/issues/645
+- https://github.com/laurencedawson/sync-for-reddit/issues/620
+- https://github.com/laurencedawson/sync-for-reddit/issues/607
+- https://github.com/laurencedawson/sync-for-reddit/issues/599
+- https://github.com/laurencedawson/sync-for-reddit/issues/634
+- https://github.com/laurencedawson/sync-for-reddit/issues/747
+- https://github.com/laurencedawson/sync-for-reddit/issues/717
+- https://github.com/laurencedawson/sync-for-reddit/issues/684
+- https://github.com/laurencedawson/sync-for-reddit/issues/874
+- https://github.com/laurencedawson/sync-for-reddit/issues/587
+- https://github.com/laurencedawson/sync-for-reddit/issues/853
+= https://github.com/laurencedawson/sync-for-reddit/issues/807
+- https://github.com/laurencedawson/sync-for-reddit/issues/859
+- https://github.com/laurencedawson/sync-for-reddit/issues/786
+- https://github.com/laurencedawson/sync-for-reddit/issues/746
+= https://github.com/laurencedawson/sync-for-reddit/issues/745
+- https://github.com/laurencedawson/sync-for-reddit/issues/776
+- https://github.com/laurencedawson/sync-for-reddit/issues/728
+- https://github.com/laurencedawson/sync-for-reddit/issues/719
+- https://github.com/laurencedawson/sync-for-reddit/issues/682
+- https://github.com/laurencedawson/sync-for-reddit/issues/615
+- https://github.com/laurencedawson/sync-for-reddit/issues/813
+- https://github.com/laurencedawson/sync-for-reddit/issues/718
+- https://github.com/laurencedawson/sync-for-reddit/issues/926
+- https://github.com/laurencedawson/sync-for-reddit/issues/642
 
 -----
 
