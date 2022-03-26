@@ -11,10 +11,26 @@
 - 
 
 ## Changes
-- 
+- Swapped the position of actions + explore
+- Added additional padding above the image viewer seek bar to prevent misclicks
+- Inline video playback should now feel snappier and smoother
 
 ### Fixes
-- 
+- Fixed a crash when restoring backups made in .24 (will require re-setting the color intensity)
+- Post inline videos are now paused when peeking
+- Added a description under Subreddit icons in the settings
+- Renamed "Show subreddit thumbnails" in the slides settings page
+- Fixed an issue where the video position wouldn't be continued when opening a video full screen
+- Fixed an issue where the Discord style panel would draw behind the status bar
+- Added a potential fix for the autoplay battery drain issue
+- Fixed an issue where videos might flicker the first frame from a previous video
+- Fixed an issue that when hitting enter to search /r/FrontPage was incorrectly searched
+- Fixed an issue where reddit videos could no longer be shared directly from the share menu
+- Fixed an issue where the right hand side of the discord panel could be incorrectly opened
+- Fixed an issue where clicking back in the internal browser would exit before going back through pages
+- Fixed an issue where chevrons in Subreddit Sort panel can not be tapped
+- Fixed an issue where the slider under theme management might be styled incorrectly
+- Fixed an issue where search results would get "stuck" in the drawer or bottomsheet
 
 ## Internal
 - 
@@ -23,8 +39,37 @@
 - 
 
 ## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/911
+- https://github.com/laurencedawson/sync-for-reddit/issues/918
+- https://github.com/laurencedawson/sync-for-reddit/issues/912
+- https://github.com/laurencedawson/sync-for-reddit/issues/907
+- https://github.com/laurencedawson/sync-for-reddit/issues/906
+- https://github.com/laurencedawson/sync-for-reddit/issues/904
+- https://github.com/laurencedawson/sync-for-reddit/issues/902
+- https://github.com/laurencedawson/sync-for-reddit/issues/903
+- https://github.com/laurencedawson/sync-for-reddit/issues/900
+- https://github.com/laurencedawson/sync-for-reddit/issues/898
+- https://github.com/laurencedawson/sync-for-reddit/issues/882
+- https://github.com/laurencedawson/sync-for-reddit/issues/881
+- https://github.com/laurencedawson/sync-for-reddit/issues/893
+- https://github.com/laurencedawson/sync-for-reddit/issues/837
+- https://github.com/laurencedawson/sync-for-reddit/issues/892
+- https://github.com/laurencedawson/sync-for-reddit/issues/889
+- https://github.com/laurencedawson/sync-for-reddit/issues/878
+- https://github.com/laurencedawson/sync-for-reddit/issues/815
+- https://github.com/laurencedawson/sync-for-reddit/issues/838
+- https://github.com/laurencedawson/sync-for-reddit/issues/841
+- https://github.com/laurencedawson/sync-for-reddit/issues/921
+- https://github.com/laurencedawson/sync-for-reddit/issues/896
+- https://github.com/laurencedawson/sync-for-reddit/issues/798
+- https://github.com/laurencedawson/sync-for-reddit/issues/843
+- https://github.com/laurencedawson/sync-for-reddit/issues/879
+- https://github.com/laurencedawson/sync-for-reddit/issues/888
+- https://github.com/laurencedawson/sync-for-reddit/issues/507
+- https://github.com/laurencedawson/sync-for-reddit/issues/636
+- https://github.com/laurencedawson/sync-for-reddit/issues/662
 - 
-- 
+
 
 -----
 
