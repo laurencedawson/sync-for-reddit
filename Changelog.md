@@ -103,11 +103,11 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/874
 - https://github.com/laurencedawson/sync-for-reddit/issues/587
 - https://github.com/laurencedawson/sync-for-reddit/issues/853
-= https://github.com/laurencedawson/sync-for-reddit/issues/807
+- https://github.com/laurencedawson/sync-for-reddit/issues/807
 - https://github.com/laurencedawson/sync-for-reddit/issues/859
 - https://github.com/laurencedawson/sync-for-reddit/issues/786
 - https://github.com/laurencedawson/sync-for-reddit/issues/746
-= https://github.com/laurencedawson/sync-for-reddit/issues/745
+- https://github.com/laurencedawson/sync-for-reddit/issues/745
 - https://github.com/laurencedawson/sync-for-reddit/issues/776
 - https://github.com/laurencedawson/sync-for-reddit/issues/728
 - https://github.com/laurencedawson/sync-for-reddit/issues/719
