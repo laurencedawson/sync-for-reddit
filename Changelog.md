@@ -5,7 +5,7 @@
 
 -----
 
-# Sync v22.3.25
+# Sync v22.3.27
 
 ## New
 - 
@@ -16,6 +16,7 @@
 - Inline video playback should now feel snappier and smoother
 - Hide is now always available in the post more menu
 - Removed the "double width comment spacer" option as it no longer did anything
+- Certain inline selftext images are now replaced with links (if they have crazy height to width ratios...)
 
 ### Fixes
 - Fixed a crash when restoring backups made in .24 (will require re-setting the color intensity)
@@ -44,6 +45,10 @@
 - Fixed an issue where adding links in the comments editor could trigger a password manager
 - Fixed an issue where posts might get stuck half way when changing subs
 - Fixed an issue with notifications not being removed when mark as read was clicked
+- Fixed a data saving related cockup
+- Fixed an issue where images would load fullscreen behind the status bar with no padding
+- Fixed an issue where inline videos were reporting they had audio when they did not
+- Fixed an issue where escaped underscores wouldn't be handled correctly
 
 ## Internal
 - 
@@ -117,6 +122,14 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/718
 - https://github.com/laurencedawson/sync-for-reddit/issues/926
 - https://github.com/laurencedawson/sync-for-reddit/issues/642
+- https://github.com/laurencedawson/sync-for-reddit/issues/927
+- https://github.com/laurencedawson/sync-for-reddit/issues/630
+- https://github.com/laurencedawson/sync-for-reddit/issues/930
+- https://github.com/laurencedawson/sync-for-reddit/issues/849
+- https://github.com/laurencedawson/sync-for-reddit/issues/778
+- https://github.com/laurencedawson/sync-for-reddit/issues/934
+- https://github.com/laurencedawson/sync-for-reddit/issues/886
+- https://github.com/laurencedawson/sync-for-reddit/issues/737
 
 -----
 
