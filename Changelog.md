@@ -5,10 +5,10 @@
 
 -----
 
-# Sync v22.3.27
+# Sync v22.3.28
 
 ## New
-- 
+- The background of fullscreen images is now colorful (can be disabled under Settings > Images)
 
 ## Changes
 - Swapped the position of actions + explore
@@ -49,9 +49,10 @@
 - Fixed an issue where images would load fullscreen behind the status bar with no padding
 - Fixed an issue where inline videos were reporting they had audio when they did not
 - Fixed an issue where escaped underscores wouldn't be handled correctly
+- Fixed an issue where the gesture nav toolbar would flicker when opening images
 
 ## Internal
-- 
+- Switched over from Mopub to Applovin (EOL)
 
 ## Updates
 - 
