@@ -3,6 +3,39 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
+
+-----
+# Sync v22.4.5
+
+### Fixes
+- Fixed an issue causing Exoplayer to use more battery
+- Reverted changes previously made to exoplayer
+
+-----
+
+# Sync v22.3.30
+
+## New
+- 
+
+## Changes
+- Switched video caching to use a db with okhttp
+
+## Fixes
+- Fixed a crash in the image viewer
+- Added an additional check when creating a video cache (should fix the cache exception error)
+
+## Internal
+- 
+
+## Updates
+- 
+
+## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/950
+- https://github.com/laurencedawson/sync-for-reddit/issues/946
+- 
+
 -----
 
 # Sync v22.3.28
@@ -18,7 +51,7 @@
 - Removed the "double width comment spacer" option as it no longer did anything
 - Certain inline selftext images are now replaced with links (if they have crazy height to width ratios...)
 
-### Fixes
+## Fixes
 - Fixed a crash when restoring backups made in .24 (will require re-setting the color intensity)
 - Post inline videos are now paused when peeking
 - Added a description under Subreddit icons in the settings
@@ -150,7 +183,7 @@
 - Added "highlight stickied posts" as an option under **experimental**
 - Fixed height inline videos have been added to experimental as a setting (off by default)
 
-### Fixes
+## Fixes
 - Fixed an issue where the height of cards wasn't being respected
 - Fixed an issue where the subreddit woudn't be updated in the search button when searching from the drawer
 - Fixed an issue where images couldn't be shared to sync
@@ -191,7 +224,7 @@
 - Increased the size of the image viewer seek bar & added a little padding left and right
 - Search is now shown in the toolbar if you have bottom nav disabled
 
-### Fixes
+## Fixes
 - Removed the "Example" chip in the Inbox chipgroup
 - Fixed a bug where recents were not scrollable
 
@@ -230,7 +263,7 @@
 - Tapping the toolbar in settings will now scroll to top
 
 
-### Fixes
+## Fixes
 - Fixed a bug where changing between folded / open would result in your current section being lost
 - Fixed an issue where the bottom progress bar wouldn't show without bottom nav
 - Fixed an issue where keyboard wouldn't hide after selecting a search result
@@ -277,7 +310,7 @@
 - Removed the palette icon from the theme settings page
 - Removed the save icon from the theme settings page
 
-### Fixes
+## Fixes
 - Fixed an issue with the subreddit description flickering
 - Fixed an issue with screen regions being blank when bottom nav hide was disabled
 - Fixed an issue where the toolbar was autohiding when it shouldn't
