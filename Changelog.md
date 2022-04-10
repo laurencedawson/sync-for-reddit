@@ -3,8 +3,34 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
+-----
+
+# Sync v22.4.5
+
+## New
+- Added a new splashscreen
+- Improved the startup time for free significantly
+
+## Changes
+- 
+
+## Fixes
+- Fixed an alignment issue for the embedded twitter description
+- Fixed an issue where resetting the theme management preferences wouldn't reset the intensity
+- Fixed a crash when viewing inline videos
+
+## Internal
+- 
+
+## Updates
+- 
+
+## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/959
+- https://github.com/laurencedawson/sync-for-reddit/issues/962
 
 -----
+
 # Sync v22.4.5
 
 ### Fixes

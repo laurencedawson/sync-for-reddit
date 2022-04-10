@@ -3,13 +3,17 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
+# Current
+	- https://github.com/laurencedawson/sync-for-reddit/issues/744
+	- https://github.com/laurencedawson/sync-for-reddit/issues/951
+	- https://github.com/laurencedawson/sync-for-reddit/issues/940
+	- https://github.com/laurencedawson/sync-for-reddit/issues/891
+	- https://github.com/laurencedawson/sync-for-reddit/issues/772
 
-### Priority
-	- A-Z back in the subreddit selection 
 
-# To log
-	- Advanced insets not working on comments page
-	- https://www.reddit.com/r/redditsync/comments/tjo3ey/v22321_beta_release/i1q2ekw/?context=3
+
+- Figure out how to center the animation background more
+- make sure the onbarding is night mode aware
 
 
 ### Refactoring
