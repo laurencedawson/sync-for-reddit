@@ -28,6 +28,8 @@
 ## Closed
 - https://github.com/laurencedawson/sync-for-reddit/issues/959
 - https://github.com/laurencedawson/sync-for-reddit/issues/962
+- https://github.com/laurencedawson/sync-for-reddit/issues/1041
+- 
 
 -----
 
