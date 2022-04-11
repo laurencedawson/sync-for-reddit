@@ -9,11 +9,11 @@
 	- https://github.com/laurencedawson/sync-for-reddit/issues/940
 	- https://github.com/laurencedawson/sync-for-reddit/issues/891
 	- https://github.com/laurencedawson/sync-for-reddit/issues/772
+	- https://github.com/laurencedawson/sync-for-reddit/issues/832
 
 
-
-- Figure out how to center the animation background more
-- make sure the onbarding is night mode aware
+- Look into why posts are "sticking" when entering / exiting
+- Rounded corners shouldn't show for cards
 
 
 ### Refactoring

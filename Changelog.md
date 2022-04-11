@@ -5,19 +5,26 @@
 
 -----
 
-# Sync v22.4.5
+# Sync v22.4.11
 
 ## New
-- Added a new splashscreen
+- Added a new onboarding / setup experience
+- Added a new splashscreen with animation
 - Improved the startup time for free significantly
+- Added "recents" to the comment page "more" bottomsheet
+- Added deeplinked settings
 
 ## Changes
-- 
+- Dark mode preferences now use radio buttons
 
 ## Fixes
 - Fixed an alignment issue for the embedded twitter description
 - Fixed an issue where resetting the theme management preferences wouldn't reset the intensity
 - Fixed a crash when viewing inline videos
+- Fixed a 404 when clicking licenses
+- Fixed an issue where changing typeface / relative size would require an app restart
+- Fixed a visual glitch where clicking on the header in settings could respond to a click
+- Fixed a bug where the account profile picture wouldn't show on first load
 
 ## Internal
 - 
@@ -29,7 +36,10 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/959
 - https://github.com/laurencedawson/sync-for-reddit/issues/962
 - https://github.com/laurencedawson/sync-for-reddit/issues/1041
-- 
+- https://github.com/laurencedawson/sync-for-reddit/issues/1027
+- https://github.com/laurencedawson/sync-for-reddit/issues/1021
+- https://github.com/laurencedawson/sync-for-reddit/issues/782
+- https://github.com/laurencedawson/sync-for-reddit/issues/772
 
 -----
 
