@@ -6,9 +6,9 @@
 # Current
 	- https://github.com/laurencedawson/sync-for-reddit/issues/744
 	- https://github.com/laurencedawson/sync-for-reddit/issues/951
+
 	- https://github.com/laurencedawson/sync-for-reddit/issues/940
-	- https://github.com/laurencedawson/sync-for-reddit/issues/891
-	- https://github.com/laurencedawson/sync-for-reddit/issues/772
+
 	- https://github.com/laurencedawson/sync-for-reddit/issues/832
 
 

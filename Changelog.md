@@ -5,6 +5,30 @@
 
 -----
 
+# Sync v22.4.13
+
+## New
+- 
+
+## Changes
+- OP and Friends are now highlighted again
+
+## Fixes
+- 
+
+## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/891
+
+-----
+
+# Sync v22.4.12
+
+## Changes
+- Updated the purchase checker to use an alt method if querying fails
+- Updated the style of setting links
+
+-----
+
 # Sync v22.4.11
 
 ## New
