@@ -11,8 +11,6 @@
 
 	- https://github.com/laurencedawson/sync-for-reddit/issues/832
 
-
-- Look into why posts are "sticking" when entering / exiting
 - Rounded corners shouldn't show for cards
 
 

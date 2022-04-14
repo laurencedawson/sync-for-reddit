@@ -5,19 +5,24 @@
 
 -----
 
-# Sync v22.4.13
+# Sync v22.4.14
 
 ## New
-- 
+- Added link + comment karma & profile creation to the about popup
+- Added an option to highlight comments that are from new accounts (on by default)
 
 ## Changes
 - OP and Friends are now highlighted again
+- [Searching within a subreddit search will now give the option to search within that subreddit again](https://www.reddit.com/r/redditsync/comments/u2az1e/path_to_v22_release/i4hpj4c/)
 
 ## Fixes
-- 
+- Added a fix for posts appearing behind other posts (animation glitch)
 
 ## Closed
 - https://github.com/laurencedawson/sync-for-reddit/issues/891
+- https://github.com/laurencedawson/sync-for-reddit/issues/832
+- https://github.com/laurencedawson/sync-for-reddit/issues/1018
+- https://github.com/laurencedawson/sync-for-reddit/issues/1001
 
 -----
 
