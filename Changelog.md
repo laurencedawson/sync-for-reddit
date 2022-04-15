@@ -5,7 +5,7 @@
 
 -----
 
-# Sync v22.4.14
+# Sync v22.4.15
 
 ## New
 - Added link + comment karma & profile creation to the about popup
@@ -14,9 +14,18 @@
 ## Changes
 - OP and Friends are now highlighted again
 - [Searching within a subreddit search will now give the option to search within that subreddit again](https://www.reddit.com/r/redditsync/comments/u2az1e/path_to_v22_release/i4hpj4c/)
+- Changed how deeplinks open in app from coldstart
+- Subreddit shortcut links (long press sync icon) now always open in sync
+- The correct splash screen is now shown when opening a shortcut
+- Subreddit shortcuts now use the subreddit icon
+- Purchases are no longer reset when going to the restore page
+- Added the ability to manually reset purchases on the restore page
 
 ## Fixes
 - Added a fix for posts appearing behind other posts (animation glitch)
+- Ads now have a min height to fix misclick issues
+- Ads are now fully disabled when an activity pauses
+- Fixed an issue where ads could be shown when starting sync from a deeplink
 
 ## Closed
 - https://github.com/laurencedawson/sync-for-reddit/issues/891
