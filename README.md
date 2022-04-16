@@ -13,11 +13,7 @@
 
 - Rounded corners shouldn't show for cards
 
-----------------------------
-
-
-TODO: PORT THE CHANGED TO ADWRAPPER TO LEGACY
-
+- Swipe mode
 
 ----------------------------
 

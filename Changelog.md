@@ -5,7 +5,23 @@
 
 -----
 
-# Sync v22.4.15
+# Sync v22.4.17
+
+## New
+- 
+
+## Changes
+- 
+
+## Fixes
+- 
+
+## Closed
+- 
+
+-----
+
+# Sync v22.4.16
 
 ## New
 - Added link + comment karma & profile creation to the about popup
