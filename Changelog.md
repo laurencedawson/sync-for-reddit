@@ -11,12 +11,25 @@
 - 
 
 ## Changes
-- 
+- Added a bottomsheet for the join subreddit chip
+- Added a new style to the "watch subreddit" bottomsheet
+- The splash screen on pre-Android 10 is now dark
 
 ## Fixes
-- 
+- Domains are now shown again for slides
+- Fixed an issue with themes not automatically updating on Samsung devices
+- The fix underscore bottomsheet is now only shown for non-reddit links
+- Added another fix for the infamous posts showing behind other posts issue
+- Fixed an issue when selecting u_profile links in the subreddit picker
+- Fixed an issue where youtu.be links would show as image posts
 
 ## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/940
+- https://github.com/laurencedawson/sync-for-reddit/issues/974
+- https://github.com/laurencedawson/sync-for-reddit/issues/1074
+- https://github.com/laurencedawson/sync-for-reddit/issues/1000
+- https://github.com/laurencedawson/sync-for-reddit/issues/964
+- https://github.com/laurencedawson/sync-for-reddit/issues/1056
 - 
 
 -----
