@@ -8,12 +8,21 @@
 # Sync v22.4.17
 
 ## New
-- 
+- Added "mark as read" to post swipe options
+- Post + Comment FABs can now be set to not autohide
+- Added the option to disable recording top visited subreddits locally
+- The URL preview shown on slides + cards now matches the same size as the post description
+- Imgur galleries now show as inline image previews (sadly with a static image until we can figure something better)
+- Selecting text in the editor and then clicking quote will now insert the selected text quoted
 
 ## Changes
 - Added a bottomsheet for the join subreddit chip
 - Added a new style to the "watch subreddit" bottomsheet
 - The splash screen on pre-Android 10 is now dark
+- Contextual chips are now forced on if you have autohide toolbar disabled
+- Added image resolution + file size to the image details
+- Sharing a post preview now includes the subreddit + icon and NSFW images are now longer red
+- The share button is now always shown in the posts "more" bottomsheet
 
 ## Fixes
 - Domains are now shown again for slides
@@ -22,6 +31,9 @@
 - Added another fix for the infamous posts showing behind other posts issue
 - Fixed an issue when selecting u_profile links in the subreddit picker
 - Fixed an issue where youtu.be links would show as image posts
+- Fixed a padding issue for cards when autohide toolbar is disabled
+- Fixed an issue where Twitter profile pictures would get the wrong background in AMOLED dark mode
+
 
 ## Closed
 - https://github.com/laurencedawson/sync-for-reddit/issues/940
@@ -30,7 +42,12 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/1000
 - https://github.com/laurencedawson/sync-for-reddit/issues/964
 - https://github.com/laurencedawson/sync-for-reddit/issues/1056
+- https://github.com/laurencedawson/sync-for-reddit/issues/991
+- https://github.com/laurencedawson/sync-for-reddit/issues/835
 - 
+
+## Internal 
+- Removed dev.kdrag0n:colorkt
 
 -----
 

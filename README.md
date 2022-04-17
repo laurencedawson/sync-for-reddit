@@ -14,6 +14,8 @@
 - Rounded corners shouldn't show for cards
 
 - Swipe mode
+- Allow large toolbar to not hide
+- Add view type to onboarding
 
 ----------------------------
 
