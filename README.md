@@ -4,6 +4,7 @@
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
 # Current
+
 	- https://github.com/laurencedawson/sync-for-reddit/issues/744
 	- https://github.com/laurencedawson/sync-for-reddit/issues/951
 
@@ -11,11 +12,27 @@
 
 	- https://github.com/laurencedawson/sync-for-reddit/issues/832
 
+----------------------------
+
+# Main before release
+
+- Videos need to be rejigged from the floating implementation
+
 - Rounded corners shouldn't show for cards
 
 - Swipe mode
-- Allow large toolbar to not hide
+
 - Add view type to onboarding
+
+- Add expanded links
+  https://github.com/laurencedawson/sync-for-reddit/issues/767
+
+- Multi column inline videos
+  https://github.com/laurencedawson/sync-for-reddit/issues/789
+
+- Monet overrides!
+
+- Subreddit picker A-Z
 
 ----------------------------
 
