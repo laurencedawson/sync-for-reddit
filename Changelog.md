@@ -5,9 +5,10 @@
 
 -----
 
-# Sync v22.4.17
+# Sync v22.4.18
 
 ## New
+- Added the A-Z picker back in as an option for the subreddit picker
 - Added the option to "follow" users
 - Added "mark as read" to post swipe options
 - Post + Comment FABs can now be set to not autohide
@@ -28,6 +29,7 @@
 - The share button is now always shown in the posts "more" bottomsheet
 - Upped the char limit from 10k to 40k
 - Toggling accounts now ignores logged out
+- Large previews are now always fetched for posts (when logged out)
 
 ## Fixes
 - Domains are now shown again for slides
@@ -39,6 +41,7 @@
 - Fixed a padding issue for cards when autohide toolbar is disabled
 - Fixed an issue where Twitter profile pictures would get the wrong background in AMOLED dark mode
 - Albums now respect the full height preview option
+- Fixed an onboarding crash
 
 ## Closed
 - https://github.com/laurencedawson/sync-for-reddit/issues/940
@@ -55,10 +58,13 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/826
 - https://github.com/laurencedawson/sync-for-reddit/issues/414
 - https://github.com/laurencedawson/sync-for-reddit/issues/302
+- https://github.com/laurencedawson/sync-for-reddit/issues/1073
 
 ## Internal 
 - Removed dev.kdrag0n:colorkt
 
+## Updates 
+- androidx.biometric:biometric > 1.2.0-alpha04
 -----
 
 # Sync v22.4.16

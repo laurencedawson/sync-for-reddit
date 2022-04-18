@@ -16,6 +16,8 @@
 
 # Main before release
 
+- Add "search subreddits" to the actions part of the explore tab. Clicking this would open the old subreddit search from v19
+
 - Videos need to be rejigged from the floating implementation
 
 - Rounded corners shouldn't show for cards
@@ -32,7 +34,8 @@
 
 - Monet overrides!
 
-- Subreddit picker A-Z
+
+- Theme management automatic and manual buttons are not working correctly
 
 ----------------------------
 
