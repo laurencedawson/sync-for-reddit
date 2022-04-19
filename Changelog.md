@@ -5,7 +5,7 @@
 
 -----
 
-# Sync v22.4.18
+# Sync v22.4.20
 
 ## New
 - Added the A-Z picker back in as an option for the subreddit picker
@@ -62,6 +62,7 @@
 
 ## Internal 
 - Removed dev.kdrag0n:colorkt
+- Switched from AppLovin to Admob due to poor in-app performance 
 
 ## Updates 
 - androidx.biometric:biometric > 1.2.0-alpha04
