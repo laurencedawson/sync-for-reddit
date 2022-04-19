@@ -34,8 +34,9 @@
 
 - Monet overrides!
 
-
 - Theme management automatic and manual buttons are not working correctly
+
+- Might be a bug where changing the settings and then restoring will not set the swipe actions
 
 ----------------------------
 

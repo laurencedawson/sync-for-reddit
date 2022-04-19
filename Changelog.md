@@ -5,6 +5,29 @@
 
 -----
 
+# Sync v22.4.20-12
+
+## New
+- 
+
+## Changes
+- Tweaked the extended toolbar animation
+- Tweaked the enter / exit animation for posts + comments
+
+## Fixes
+- 
+
+## Closed
+- 
+
+## Internal 
+- 
+
+## Updates 
+- 
+
+-----
+
 # Sync v22.4.20
 
 ## New
@@ -25,7 +48,7 @@
 - The splash screen on pre-Android 10 is now dark
 - Contextual chips are now forced on if you have autohide toolbar disabled
 - Added image resolution + file size to the image details
-- Sharing a post preview now includes the subreddit + icon and NSFW images are now longer red
+- Sharing a post preview now includes the subreddit + icon and NSFW images are no longer red
 - The share button is now always shown in the posts "more" bottomsheet
 - Upped the char limit from 10k to 40k
 - Toggling accounts now ignores logged out
@@ -66,6 +89,7 @@
 
 ## Updates 
 - androidx.biometric:biometric > 1.2.0-alpha04
+
 -----
 
 # Sync v22.4.16
