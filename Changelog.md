@@ -5,7 +5,7 @@
 
 -----
 
-# Sync v22.4.20-12
+# Sync v22.4.20-22
 
 ## New
 - Add View Type to onboarding
