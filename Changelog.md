@@ -11,19 +11,37 @@
 - Add View Type to onboarding
 - The icon shown in the extended toolbar is now clickable
 - Added full subreddit search (tap "show all" next to "Suggested subreddit results")
+- Added "clear top visited" to the explore more menu
 
 ## Changes
 - Tweaked the extended toolbar animation
 - Tweaked the enter / exit animation for posts + comments
+- Highlighting new accounts is now off by default
 
 ## Fixes
-- 
+- Fixed a bug that could cause animated pictures to play forever (this is pretty big)
+- Fixed a bug that could cause videos not to scroll if the scroll initiated on the video controls
+- Fixed a bug that could cause videos to resume on scroll when paused
+- Fixed an issue with incorrect clipping for autoplaying videos when using Card view
+- Fixed an issue where cards wouldn't start autoplay
+- Fixed an issue with the video player drawing on top of content including the expanded toolbar
 
 ## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/1082
+- https://github.com/laurencedawson/sync-for-reddit/issues/754
+- https://github.com/laurencedawson/sync-for-reddit/issues/696
+- https://github.com/laurencedawson/sync-for-reddit/issues/873
+- https://github.com/laurencedawson/sync-for-reddit/issues/1032
+- https://github.com/laurencedawson/sync-for-reddit/issues/986
+- https://github.com/laurencedawson/sync-for-reddit/issues/970
+- https://github.com/laurencedawson/sync-for-reddit/issues/1090
+- https://github.com/laurencedawson/sync-for-reddit/issues/981
+- https://github.com/laurencedawson/sync-for-reddit/issues/976
+- https://github.com/laurencedawson/sync-for-reddit/issues/947
 - 
 
 ## Internal 
-- 
+- com.google.android.material:material > 1.7.0-alpha01
 
 ## Updates 
 - 

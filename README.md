@@ -16,12 +16,6 @@
 
 # Main before release
 
-- Videos need to be rejigged from the floating implementation
-- Multi column inline videos
-  https://github.com/laurencedawson/sync-for-reddit/issues/789
-
-- Rounded corners shouldn't show for cards
-
 - Swipe mode
 
 - Add expanded links
