@@ -16,21 +16,16 @@
 
 # Main before release
 
-- Add "search subreddits" to the actions part of the explore tab. Clicking this would open the old subreddit search from v19
-
 - Videos need to be rejigged from the floating implementation
+- Multi column inline videos
+  https://github.com/laurencedawson/sync-for-reddit/issues/789
 
 - Rounded corners shouldn't show for cards
 
 - Swipe mode
 
-- Add view type to onboarding
-
 - Add expanded links
   https://github.com/laurencedawson/sync-for-reddit/issues/767
-
-- Multi column inline videos
-  https://github.com/laurencedawson/sync-for-reddit/issues/789
 
 - Monet overrides!
 

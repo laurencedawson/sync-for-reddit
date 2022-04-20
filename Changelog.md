@@ -8,7 +8,9 @@
 # Sync v22.4.20-12
 
 ## New
-- 
+- Add View Type to onboarding
+- The icon shown in the extended toolbar is now clickable
+- Added full subreddit search (tap "show all" next to "Suggested subreddit results")
 
 ## Changes
 - Tweaked the extended toolbar animation
