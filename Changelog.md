@@ -5,7 +5,7 @@
 
 -----
 
-# Sync v22.4.20-22
+# Sync v22.4.21-14
 
 ## New
 - Add View Type to onboarding
@@ -25,6 +25,10 @@
 - Fixed an issue with incorrect clipping for autoplaying videos when using Card view
 - Fixed an issue where cards wouldn't start autoplay
 - Fixed an issue with the video player drawing on top of content including the expanded toolbar
+- Added a fix for the ExoPlayer cache exception
+- Fixed an issue where HDR videos wouldn't play
+- Fixed an issue changing dark mode whilst onboarding
+- Fixed an issue where the small toolbar would be hidden if autohide was disabled and large toolbar disabled
 
 ## Closed
 - https://github.com/laurencedawson/sync-for-reddit/issues/1082
@@ -38,6 +42,7 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/981
 - https://github.com/laurencedawson/sync-for-reddit/issues/976
 - https://github.com/laurencedawson/sync-for-reddit/issues/947
+- https://github.com/laurencedawson/sync-for-reddit/issues/744
 - 
 
 ## Internal 
