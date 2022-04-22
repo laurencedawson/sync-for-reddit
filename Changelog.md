@@ -17,6 +17,8 @@
 - Tweaked the extended toolbar animation
 - Tweaked the enter / exit animation for posts + comments
 - Highlighting new accounts is now off by default
+- Themed the status bar color when commenting
+- Tweaked the changelog bottomsheet
 
 ## Fixes
 - Fixed a bug that could cause animated pictures to play forever (this is pretty big)
@@ -43,13 +45,21 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/976
 - https://github.com/laurencedawson/sync-for-reddit/issues/947
 - https://github.com/laurencedawson/sync-for-reddit/issues/744
-- 
+- https://github.com/laurencedawson/sync-for-reddit/issues/965
+- https://github.com/laurencedawson/sync-for-reddit/issues/965
+- https://github.com/laurencedawson/sync-for-reddit/issues/1044
+- https://github.com/laurencedawson/sync-for-reddit/issues/1099
+- https://github.com/laurencedawson/sync-for-reddit/issues/1098
+- https://github.com/laurencedawson/sync-for-reddit/issues/1111
+- https://github.com/laurencedawson/sync-for-reddit/issues/1110
+- https://github.com/laurencedawson/sync-for-reddit/issues/1107
+- https://github.com/laurencedawson/sync-for-reddit/issues/1105
 
-## Internal 
-- com.google.android.material:material > 1.7.0-alpha01
+## Internal
+- Switched from Dash to HLS streams for reddit videos
 
 ## Updates 
-- 
+- com.google.android.material:material > 1.7.0-alpha01
 
 -----
 

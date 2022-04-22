@@ -16,14 +16,15 @@
 
 # Main before release
 
+
+- Monet overrides!
+- Theme management automatic and manual buttons are not working correctly
+
+
 - Swipe mode
 
 - Add expanded links
   https://github.com/laurencedawson/sync-for-reddit/issues/767
-
-- Monet overrides!
-
-- Theme management automatic and manual buttons are not working correctly
 
 - Might be a bug where changing the settings and then restoring will not set the swipe actions
 
