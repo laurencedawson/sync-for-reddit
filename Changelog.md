@@ -19,6 +19,8 @@
 - Highlighting new accounts is now off by default
 - Themed the status bar color when commenting
 - Tweaked the changelog bottomsheet
+- Tweaked the dismiss bottomsheet
+- The preview comment dialog now shows all markdown effects
 
 ## Fixes
 - Fixed a bug that could cause animated pictures to play forever (this is pretty big)
@@ -31,6 +33,13 @@
 - Fixed an issue where HDR videos wouldn't play
 - Fixed an issue changing dark mode whilst onboarding
 - Fixed an issue where the small toolbar would be hidden if autohide was disabled and large toolbar disabled
+- Fixed an issue where certain imgur videos wouldn't play
+- Fixed an issue where the the comment nav bar could get stuck animating
+- Fixed an issue where links in spoilers would not be clickable from the spoiler bottomsheet
+- Fixed an issue where links in spoilers could be clicked before tapping the spoiler
+- Fixed a crash when previewing the slide view type with large previews disabled
+- Fixed an issue where multi column cards wouldn't return to the top
+- 
 
 ## Closed
 - https://github.com/laurencedawson/sync-for-reddit/issues/1082
@@ -54,6 +63,14 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/1110
 - https://github.com/laurencedawson/sync-for-reddit/issues/1107
 - https://github.com/laurencedawson/sync-for-reddit/issues/1105
+- https://github.com/laurencedawson/sync-for-reddit/issues/1091
+- https://github.com/laurencedawson/sync-for-reddit/issues/1086
+- https://github.com/laurencedawson/sync-for-reddit/issues/1068
+- https://github.com/laurencedawson/sync-for-reddit/issues/1059
+- https://github.com/laurencedawson/sync-for-reddit/issues/1055
+- https://github.com/laurencedawson/sync-for-reddit/issues/1054
+- https://github.com/laurencedawson/sync-for-reddit/issues/1112
+- https://github.com/laurencedawson/sync-for-reddit/issues/925
 
 ## Internal
 - Switched from Dash to HLS streams for reddit videos
