@@ -17,9 +17,7 @@
 # Main before release
 
 
-- Monet overrides!
 - Theme management automatic and manual buttons are not working correctly
-
 
 - Swipe mode
 

@@ -8,10 +8,14 @@
 # Sync v22.4.21-14
 
 ## New
+- Added additional Monet overriding
+	- Primary & secondary text color
+	- Highlight color
 - Add View Type to onboarding
 - The icon shown in the extended toolbar is now clickable
 - Added full subreddit search (tap "show all" next to "Suggested subreddit results")
 - Added "clear top visited" to the explore more menu
+- Long-press to select text option has been hooked back up
 
 ## Changes
 - Tweaked the extended toolbar animation
@@ -21,6 +25,7 @@
 - Tweaked the changelog bottomsheet
 - Tweaked the dismiss bottomsheet
 - The preview comment dialog now shows all markdown effects
+- Added a way to disable caching streaming content locally (Settings > Images > "cache streaming videos)
 
 ## Fixes
 - Fixed a bug that could cause animated pictures to play forever (this is pretty big)
@@ -39,9 +44,29 @@
 - Fixed an issue where links in spoilers could be clicked before tapping the spoiler
 - Fixed a crash when previewing the slide view type with large previews disabled
 - Fixed an issue where multi column cards wouldn't return to the top
-- 
+- Fixed a themeing issue in the settings when searching
+- Fixed an issue where the new comment count wouldn't show for cards
+- Fixed an issue where you could click reply to a locked posts comments
+- Fixed an issue with cached streaming content not playing
+- Fixed an issue where the dropdown in drawer items could end up in the wrong state
+- Fixed an issue where photo selection buttons wouldn't be themed when submitting an image
 
 ## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/1042
+- https://github.com/laurencedawson/sync-for-reddit/issues/895
+- https://github.com/laurencedawson/sync-for-reddit/issues/1015
+- https://github.com/laurencedawson/sync-for-reddit/issues/1010
+- https://github.com/laurencedawson/sync-for-reddit/issues/1009
+- https://github.com/laurencedawson/sync-for-reddit/issues/993
+- https://github.com/laurencedawson/sync-for-reddit/issues/883
+- https://github.com/laurencedawson/sync-for-reddit/issues/983
+- https://github.com/laurencedawson/sync-for-reddit/issues/979
+- https://github.com/laurencedawson/sync-for-reddit/issues/1043
+- https://github.com/laurencedawson/sync-for-reddit/issues/963
+- https://github.com/laurencedawson/sync-for-reddit/issues/1034
+- https://github.com/laurencedawson/sync-for-reddit/issues/1004
+- https://github.com/laurencedawson/sync-for-reddit/issues/1024
+- https://github.com/laurencedawson/sync-for-reddit/issues/1029
 - https://github.com/laurencedawson/sync-for-reddit/issues/1082
 - https://github.com/laurencedawson/sync-for-reddit/issues/754
 - https://github.com/laurencedawson/sync-for-reddit/issues/696
@@ -71,6 +96,17 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/1054
 - https://github.com/laurencedawson/sync-for-reddit/issues/1112
 - https://github.com/laurencedawson/sync-for-reddit/issues/925
+- https://github.com/laurencedawson/sync-for-reddit/issues/1048
+- https://github.com/laurencedawson/sync-for-reddit/issues/1014
+- https://github.com/laurencedawson/sync-for-reddit/issues/995
+- https://github.com/laurencedawson/sync-for-reddit/issues/982
+- https://github.com/laurencedawson/sync-for-reddit/issues/994
+- https://github.com/laurencedawson/sync-for-reddit/issues/998
+- https://github.com/laurencedawson/sync-for-reddit/issues/923
+- https://github.com/laurencedawson/sync-for-reddit/issues/941
+- https://github.com/laurencedawson/sync-for-reddit/issues/1040
+- https://github.com/laurencedawson/sync-for-reddit/issues/975
+-  
 
 ## Internal
 - Switched from Dash to HLS streams for reddit videos
