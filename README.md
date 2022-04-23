@@ -16,9 +16,6 @@
 
 # Main before release
 
-
-- Theme management automatic and manual buttons are not working correctly
-
 - Swipe mode
 
 - Add expanded links

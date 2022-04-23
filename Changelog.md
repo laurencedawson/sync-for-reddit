@@ -5,6 +5,45 @@
 
 -----
 
+# Sync v22.4.23-19
+
+## New
+-
+
+## Changes
+- 
+
+## Fixes
+- 
+
+## Closed
+- 
+
+## Internal
+- 
+
+## Updates 
+- 
+
+-----
+
+# Sync v22.4.23-18
+
+## Changes
+- Refinements and simplifications made to the theme management settings page
+
+## Fixes
+- Fixed a crash in the submit editor
+- Fixed an issue with images loading in comments
+- Fixed an issue that could cause bottomsheet backgrounds to display the wrong color
+- Fixed an issue where you could select the background from the theme management preview button
+
+## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/1128
+- https://github.com/laurencedawson/sync-for-reddit/issues/1124
+
+-----
+
 # Sync v22.4.23
 
 ## New
@@ -26,6 +65,7 @@
 - Tweaked the dismiss bottomsheet
 - The preview comment dialog now shows all markdown effects
 - Added a way to disable caching streaming content locally (Settings > Images > "cache streaming videos)
+- Added build version to the settigns
 
 ## Fixes
 - Fixed a bug that could cause animated pictures to play forever (this is pretty big)
