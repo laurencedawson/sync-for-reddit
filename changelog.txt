@@ -5,19 +5,56 @@
 
 -----
 
-# Sync v22.4.23-19
+# Sync v22.4.25
 
 ## New
--
+- Added an option to disable peeking media
+- Added copy username to post + comment copy bottomsheets
 
 ## Changes
-- 
+- Renamed Images > Media in settings
+- Removed the need for Chrome to be the default browser for custom tabs
+- Updated the share bottomsheet for sharing backups
+- Updated monet styled switches to match the light mode better
+- Updated the awards preference screen to use checkboxes and not switches
 
 ## Fixes
 - 
 
 ## Closed
-- 
+- https://github.com/laurencedawson/sync-for-reddit/issues/1070
+- https://github.com/laurencedawson/sync-for-reddit/issues/734
+- https://github.com/laurencedawson/sync-for-reddit/issues/825
+- https://github.com/laurencedawson/sync-for-reddit/issues/951
+- https://github.com/laurencedawson/sync-for-reddit/issues/756
+- https://github.com/laurencedawson/sync-for-reddit/issues/989
+- https://github.com/laurencedawson/sync-for-reddit/issues/1060	
+- https://github.com/laurencedawson/sync-for-reddit/issues/1050
+- https://github.com/laurencedawson/sync-for-reddit/issues/1049
+- https://github.com/laurencedawson/sync-for-reddit/issues/1038
+- https://github.com/laurencedawson/sync-for-reddit/issues/1047
+- https://github.com/laurencedawson/sync-for-reddit/issues/1030
+- https://github.com/laurencedawson/sync-for-reddit/issues/1025
+- https://github.com/laurencedawson/sync-for-reddit/issues/1020
+- https://github.com/laurencedawson/sync-for-reddit/issues/1019
+- https://github.com/laurencedawson/sync-for-reddit/issues/984
+- https://github.com/laurencedawson/sync-for-reddit/issues/1133
+- https://github.com/laurencedawson/sync-for-reddit/issues/949
+- https://github.com/laurencedawson/sync-for-reddit/issues/980
+- https://github.com/laurencedawson/sync-for-reddit/issues/937
+- https://github.com/laurencedawson/sync-for-reddit/issues/828
+- https://github.com/laurencedawson/sync-for-reddit/issues/808
+- https://github.com/laurencedawson/sync-for-reddit/issues/794
+- https://github.com/laurencedawson/sync-for-reddit/issues/1006
+- https://github.com/laurencedawson/sync-for-reddit/issues/855
+- https://github.com/laurencedawson/sync-for-reddit/issues/664
+- https://github.com/laurencedawson/sync-for-reddit/issues/931
+- https://github.com/laurencedawson/sync-for-reddit/issues/1085
+- https://github.com/laurencedawson/sync-for-reddit/issues/1080
+- https://github.com/laurencedawson/sync-for-reddit/issues/1109
+- https://github.com/laurencedawson/sync-for-reddit/issues/1117
+- https://github.com/laurencedawson/sync-for-reddit/issues/1065
+- https://github.com/laurencedawson/sync-for-reddit/issues/1058
 
 ## Internal
 - 

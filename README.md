@@ -16,6 +16,9 @@
 
 # Main before release
 
+- Better highlighting of new
+  https://github.com/laurencedawson/sync-for-reddit/issues/819
+
 - Swipe mode
 
 - Add expanded links
