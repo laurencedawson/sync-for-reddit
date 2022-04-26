@@ -1,7 +1,7 @@
 ## Links
 
 - [TODO](https://todo.syncforreddit.com)
-- [Changelog](https://todo.syncforreddit.com/Changelog)
+- [Changelog](https://todo.syncforreddit.com/changelog)
 
 -----
 
