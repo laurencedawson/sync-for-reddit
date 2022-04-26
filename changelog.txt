@@ -5,7 +5,7 @@
 
 -----
 
-# Sync v22.4.25
+# Sync v22.4.26
 
 ## New
 - Added an option to disable peeking media
@@ -19,7 +19,7 @@
 - Updated the awards preference screen to use checkboxes and not switches
 
 ## Fixes
-- 
+- Fixed a performance issue when changing subreddits
 
 ## Closed
 - https://github.com/laurencedawson/sync-for-reddit/issues/1070
@@ -55,6 +55,15 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/1117
 - https://github.com/laurencedawson/sync-for-reddit/issues/1065
 - https://github.com/laurencedawson/sync-for-reddit/issues/1058
+- https://github.com/laurencedawson/sync-for-reddit/issues/479
+- https://github.com/laurencedawson/sync-for-reddit/issues/1104
+- https://github.com/laurencedawson/sync-for-reddit/issues/606
+- https://github.com/laurencedawson/sync-for-reddit/issues/627
+- https://github.com/laurencedawson/sync-for-reddit/issues/665
+- https://github.com/laurencedawson/sync-for-reddit/issues/769
+- https://github.com/laurencedawson/sync-for-reddit/issues/439
+- https://github.com/laurencedawson/sync-for-reddit/issues/688
+- https://github.com/laurencedawson/sync-for-reddit/issues/7933
 
 ## Internal
 - 
