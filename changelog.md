@@ -5,9 +5,10 @@
 
 -----
 
-# Sync v22.4.26
+# Sync v22.4.27
 
 ## New
+- Added expanded links back in
 - Added an option to disable peeking media
 - Added copy username to post + comment copy bottomsheets
 
@@ -17,11 +18,13 @@
 - Updated the share bottomsheet for sharing backups
 - Updated monet styled switches to match the light mode better
 - Updated the awards preference screen to use checkboxes and not switches
+- Updated the select media folder directory
 
 ## Fixes
 - Fixed a performance issue when changing subreddits
 
 ## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/767
 - https://github.com/laurencedawson/sync-for-reddit/issues/1070
 - https://github.com/laurencedawson/sync-for-reddit/issues/734
 - https://github.com/laurencedawson/sync-for-reddit/issues/825
@@ -66,7 +69,7 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/7933
 
 ## Internal
-- 
+- Added notification setup (for Android 13) during onboarding (not enabled but written)
 
 ## Updates 
 - 
