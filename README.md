@@ -16,13 +16,12 @@
 
 # Main before release
 
+- Theme highlighting
+
 - Better highlighting of new
   https://github.com/laurencedawson/sync-for-reddit/issues/819
 
 - Swipe mode
-
-- Add expanded links
-  https://github.com/laurencedawson/sync-for-reddit/issues/767
 
 - Might be a bug where changing the settings and then restoring will not set the swipe actions
 
