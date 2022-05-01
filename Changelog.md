@@ -5,6 +5,29 @@
 
 -----
 
+# Sync v22.4.30
+
+## New
+- Starting testing of Sync Ultra
+- Inline imgur album previews now use the cover image from the album
+
+## Changes
+- 
+
+## Fixes
+- 
+
+## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/566
+
+## Internal
+- 
+
+## Updates 
+- 
+
+-----
+
 # Sync v22.4.28
 
 ## New
@@ -70,9 +93,6 @@
 
 ## Internal
 - Added notification setup (for Android 13) during onboarding (not enabled but written)
-
-## Updates 
-- 
 
 -----
 
