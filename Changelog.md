@@ -5,26 +5,41 @@
 
 -----
 
-# Sync v22.4.30
+# Sync v22.5.3
+
+## Ultra
+- Translate comments and selftext!
+- Extract text from images
 
 ## New
-- Starting testing of Sync Ultra
-- Inline imgur album previews now use the cover image from the album
+- Added TTS for comment reading (with support for automatic language detection)
+- Added support for imgur.io gallery links
 
 ## Changes
-- 
+- Removed the option "Extend drawer open region" as this has been replaced by the Discord style drawer
 
 ## Fixes
-- 
+- Inline links are now de-duplicated
 
 ## Closed
-- https://github.com/laurencedawson/sync-for-reddit/issues/566
+- 
 
 ## Internal
 - 
 
 ## Updates 
 - 
+
+-----
+
+# Sync v22.4.30
+
+## New
+- Starting testing of Sync Ultra
+- Inline imgur album previews now use the cover image from the album
+
+## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/566
 
 -----
 
