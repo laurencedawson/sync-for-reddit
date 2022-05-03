@@ -3,27 +3,14 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
-# Current
-
-	- https://github.com/laurencedawson/sync-for-reddit/issues/744
-	- https://github.com/laurencedawson/sync-for-reddit/issues/951
-
-	- https://github.com/laurencedawson/sync-for-reddit/issues/940
-
-	- https://github.com/laurencedawson/sync-for-reddit/issues/832
-
 ----------------------------
 
 # Main before release
-
-- Theme highlighting
 
 - Better highlighting of new
   https://github.com/laurencedawson/sync-for-reddit/issues/819
 
 - Swipe mode
-
-- Might be a bug where changing the settings and then restoring will not set the swipe actions
 
 ----------------------------
 
