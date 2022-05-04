@@ -71,6 +71,7 @@
 
 ## Internal
 - Removed legacy MoPub entries in the AndroidManfiest
+- Reverted biometric library > 1.0.1
 
 ## Updates 
 - 
