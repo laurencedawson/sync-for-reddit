@@ -5,7 +5,7 @@
 
 -----
 
-# Sync v22.5.3
+# Sync v22.5.4s
 
 ## Ultra
 - Translate comments and selftext!
@@ -24,6 +24,7 @@
 - **Onboarding has been reset** and will be shown again (you'll need to restore purchases)
 - The default subreddit now has its own section in the subreddit picker
 - Added post dividers when using AMOLED black theme
+- Updated the base app icon
 
 ## Changes
 - Removed the option "Extend drawer open region" as this has been replaced by the Discord style drawer
@@ -68,6 +69,8 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/823
 - https://github.com/laurencedawson/sync-for-reddit/issues/844
 - https://github.com/laurencedawson/sync-for-reddit/issues/819
+- https://github.com/laurencedawson/sync-for-reddit/issues/773
+- https://github.com/laurencedawson/sync-for-reddit/issues/1157
 
 ## Internal
 - Removed legacy MoPub entries in the AndroidManfiest
