@@ -3,9 +3,44 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
+# Sync v22.5.12
+
+## New
+- AMOLED post dividers are now optional (Experimental > AMOLED divider)
+- Added an option to disable the background highlight of new comments
+- Added the option to disable inbox replies for posts
+
+## Changes
+- Removed the "default" section in explore and replaced with a label to denote the current default (optional)
+- Updated the user paint + TTS icons
+- Added a little padding below the comments navigation bar
+- Profile is now the first item in more actions
+- Ultra settings now appear in search
+
+## Fixes
+- Highlighting comment backgrounds now respects the highlight comment setting
+- Fixed an issue with onboarding where you could potentially click an author name
+- Fixed an alignment issue with sports mode
+- Sync ultra settings can no longer be deeplinked 
+
+## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/1203
+- https://github.com/laurencedawson/sync-for-reddit/issues/1201
+- https://github.com/laurencedawson/sync-for-reddit/issues/1199
+- https://github.com/laurencedawson/sync-for-reddit/issues/1195
+- https://github.com/laurencedawson/sync-for-reddit/issues/1202
+- https://github.com/laurencedawson/sync-for-reddit/issues/1210
+- https://github.com/laurencedawson/sync-for-reddit/issues/1211
+
+## Internal
+-
+
+## Updates 
+-
+
 -----
 
-# Sync v22.5.4s
+# Sync v22.5.4
 
 ## Ultra
 - Translate comments and selftext!
