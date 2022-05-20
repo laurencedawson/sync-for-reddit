@@ -3,7 +3,64 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
+# Sync v22.5.20
+
+## Ultra
+- Paint users is now fully cloud based
+	- Previous paints can be imported into the new cloud based system under Settings > Ultra Paint
+	- Painted users will now automatically sync across devices (in real time)
+	- You can force a refresh under Settings > Ultra
+## New
+- 
+
+## Changes
+- Bypass AMP links is now available for everyone (Settings > Link handling)
+- Toned down the ripple color
+
+## Fixes
+- Fixed an issue where the toggle inbox replies option was shown for all posts
+
+## Closed
+- 
+
+## Internal
+- 
+
+## Updates 
+-
+
+-----
+
+# Sync v22.5.17
+
+## Ultra
+- 
+
+## New
+- 
+
+## Changes
+- Added another check for in-app purchases
+- Added additional logging to the restore purchase page
+
+## Fixes
+- Fixed an issue that could cause all, frontpage and popular to get stuck (will reset the value of show feeds...)
+
+## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/1257
+
+## Internal
+- Removed AppLovin completely
+
+## Updates 
+-
+
+-----
+
 # Sync v22.5.12
+
+## Ultra
+- Ultra has been completed and fully added in
 
 ## New
 - AMOLED post dividers are now optional (Experimental > AMOLED divider)
@@ -31,6 +88,7 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/1202
 - https://github.com/laurencedawson/sync-for-reddit/issues/1210
 - https://github.com/laurencedawson/sync-for-reddit/issues/1211
+- https://github.com/laurencedawson/sync-for-reddit/issues/908
 
 ## Internal
 -
