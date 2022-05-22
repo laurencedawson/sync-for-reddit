@@ -16,6 +16,7 @@
 ## Changes
 - Bypass AMP links is now available for everyone (Settings > Link handling)
 - Toned down the ripple color
+- The top app bar now matches the correct material design 3 height
 
 ## Fixes
 - Fixed an issue where the toggle inbox replies option was shown for all posts
