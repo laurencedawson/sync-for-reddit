@@ -11,6 +11,8 @@
 	- Painted users will now automatically sync across devices (in real time)
 	- You can force a refresh under Settings > Ultra
 	- Previous paints can be imported into the new cloud based system under Settings > Ultra Paint
+- Started work on cloud based tagging of users (more to follow)
+
 ## New
 - 
 
