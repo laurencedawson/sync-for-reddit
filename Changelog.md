@@ -3,13 +3,14 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
-# Sync v22.5.20
+# Sync v22.5.22
 
 ## Ultra
 - Paint users is now fully cloud based
-	- Previous paints can be imported into the new cloud based system under Settings > Ultra Paint
+	- Painted users is now per-reddit account (similar to settings + tagging)
 	- Painted users will now automatically sync across devices (in real time)
 	- You can force a refresh under Settings > Ultra
+	- Previous paints can be imported into the new cloud based system under Settings > Ultra Paint
 ## New
 - 
 
