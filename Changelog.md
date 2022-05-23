@@ -3,7 +3,7 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
-# Sync v22.5.22
+# Sync v22.5.23
 
 ## Ultra
 - Paint users is now fully cloud based
@@ -20,9 +20,11 @@
 - Bypass AMP links is now available for everyone (Settings > Link handling)
 - Toned down the ripple color
 - The top app bar now matches the correct material design 3 height
+- Ensured all post + comment animations now use FastOutSlowInInterpolator
 
 ## Fixes
 - Fixed an issue where the toggle inbox replies option was shown for all posts
+- Fixed an issue where the domain might not show if it matched the current subreddit...
 
 ## Closed
 - 
@@ -31,7 +33,13 @@
 - 
 
 ## Updates 
--
+- https://github.com/laurencedawson/sync-for-reddit/issues/1016
+- https://github.com/laurencedawson/sync-for-reddit/issues/1134
+- https://github.com/laurencedawson/sync-for-reddit/issues/1141
+- https://github.com/laurencedawson/sync-for-reddit/issues/1132
+- https://github.com/laurencedawson/sync-for-reddit/issues/1266
+- https://github.com/laurencedawson/sync-for-reddit/issues/1307
+- https://github.com/laurencedawson/sync-for-reddit/issues/1244
 
 -----
 
