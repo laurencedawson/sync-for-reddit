@@ -1,33 +1,32 @@
 ---
-name: Bug report
-about: " Create a report to help us improve"
-title: "[BUG]"
+name: Bug Report
+about: "Create a report to help us improve Sync"
+title: "[BUG] "
 labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the bug**  
+_A clear and concise description of what the bug is._
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Steps to Reproduce**  
+1. _Go to '...'_
+2. _Click on '....'_
+3. _Scroll down to '....'_
+4. _See error_
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Expected behavior**  
+_A clear and concise description of what you expected to happen._
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots**  
+_If applicable, add screenshots to help explain your problem._
 
 **Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - Device: [e.g. Pixel 6]
+ - Android: [e.g. 12]
+ - Sync version: [e.g. v22.5.20]
+ - Sync variant: [e.g. pro]
 
-**Additional context**
-Add any other context about the problem here.
+**Additional context**  
+_Add any other context about the problem here._
