@@ -8,19 +8,19 @@ assignees: ''
 ---
 
 **Describe the bug**  
-_A clear and concise description of what the bug is._
+A clear and concise description of what the bug is.
 
 **Steps to Reproduce**  
-1. _Go to '...'_
-2. _Click on '....'_
-3. _Scroll down to '....'_
-4. _See error_
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
 **Expected behavior**  
-_A clear and concise description of what you expected to happen._
+A clear and concise description of what you expected to happen.
 
 **Screenshots**  
-_If applicable, add screenshots to help explain your problem._
+If applicable, add screenshots to help explain your problem.
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. Pixel 6]
@@ -29,4 +29,4 @@ _If applicable, add screenshots to help explain your problem._
  - Sync variant: [e.g. pro]
 
 **Additional context**  
-_Add any other context about the problem here._
+Add any other context about the problem here.
