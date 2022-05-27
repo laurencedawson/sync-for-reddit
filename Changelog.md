@@ -6,12 +6,25 @@
 # Sync v22.5.23
 
 ## Ultra
-- Paint users is now fully cloud based
-	- Painted users is now per-reddit account (similar to settings + tagging)
+- Paint users updates
+	- Now fully cloud based
+	- Now per-reddit account (similar to settings + tagging)
 	- Painted users will now automatically sync across devices (in real time)
+	- Updates across devices are handled via a push service (so no background checking zzz)
 	- You can force a refresh under Settings > Ultra
+	- Added a painted user manager (Settings > Ultra)
+	- Long press the "paint user" chip to get quick access to the manager
 	- Previous paints can be imported into the new cloud based system under Settings > Ultra Paint
-- Started work on cloud based tagging of users (more to follow)
+
+- Tag users update
+	- Now fully cloud supported with ultra
+	- Local tagging still works for non-ultra
+	- Tagged users will now automatically sync across devices (in real time)
+	- Updates across devices are handled via a push service (so no background checking zzz)
+	- You can force a refresh under Settings > Ultra
+	- Added a tagged user manager (Settings > Ultra)
+	- Long press the "tag user" chip to get quick access to the manager
+	- Previous tags can be imported into the new cloud based system under Settings > Ultra Paint
 
 ## New
 - 
@@ -25,6 +38,7 @@
 ## Fixes
 - Fixed an issue where the toggle inbox replies option was shown for all posts
 - Fixed an issue where the domain might not show if it matched the current subreddit...
+- Fixed an issue where painting users was case sensitive
 
 ## Closed
 - 
@@ -40,6 +54,8 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/1266
 - https://github.com/laurencedawson/sync-for-reddit/issues/1307
 - https://github.com/laurencedawson/sync-for-reddit/issues/1244
+- https://github.com/laurencedawson/sync-for-reddit/issues/1262
+- https://github.com/laurencedawson/sync-for-reddit/issues/1263
 
 -----
 
