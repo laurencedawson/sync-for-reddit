@@ -3,7 +3,7 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
-# Sync v22.5.23
+# Sync v22.5.26-22:34
 
 ## Ultra
 - Paint users updates
