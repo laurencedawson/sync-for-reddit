@@ -3,7 +3,98 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
-# Sync v22.5.26-22:34
+# Sync v22.5.31
+
+## Ultra
+- Ultra status is now included in the device information text
+
+## New
+- Subreddit "about" bottomsheets can now be accessed from the Toolbar if expanded toolbar is disabled
+- User "about" bottomsheets can now be accessed from the Toolbar if expanded toolbar is disabled
+- Added a final page to onboarding with a few final points
+- Added a new shortcut under Legacy settings to restore the v19 comments styling 
+- Added three helper tooltips in the settings (under root, comments and theme)
+- An info button is now shown in the toolbar if large toolbar is disabled	
+- Long pressing the toolbar will now refresh comments, posts and messages
+- Added a dropdown indicator to the small toolbar
+
+## Changes
+- Moved "legacy settings" to the top of the settings
+- Highlighting new comment backgrounds is now off by default
+- The skip button has been temporarily hidden from onboarding while we roll out to production
+- Long pressing "Welcome to Sync for Reddit" will allow existing users to skip onboarding
+- Removed search from the toolbar (its available in the bottom nav and drawer)
+
+## Fixes
+- Fixed an issue with loaded themes not sticking after a reboot
+
+## Closed
+- https://github.com/laurencedawson/sync-for-reddit/issues/1340
+- https://github.com/laurencedawson/sync-for-reddit/issues/1339
+- https://github.com/laurencedawson/sync-for-reddit/issues/787
+
+## Internal
+- 
+
+## Updates 
+-
+
+-----
+
+# Sync v22.5.29
+
+## Ultra
+- 
+
+## New
+- 
+
+## Changes
+- 
+
+## Fixes
+- Fixed an issue where old tags were case sensitive
+- Fixed an issue where importing old tags would remove any newly added tags
+
+## Closed
+- 
+
+## Internal
+- 
+
+## Updates 
+-
+
+-----
+
+# Sync v22.5.28
+
+## Ultra
+- 
+
+## New
+- 
+
+## Changes
+- User profile pics are now automatically restored when loading user paints / tags
+- Importing previous tags has been optimized
+
+## Fixes
+- Fixed an issue that would block cloud / local backup 
+- Profile titles now follow the correct capitalization
+
+## Closed
+- 
+
+## Internal
+- 
+
+## Updates 
+-
+
+-----
+
+# Sync v22.5.27
 
 ## Ultra
 - Paint users updates
@@ -41,12 +132,6 @@
 - Fixed an issue where painting users was case sensitive
 
 ## Closed
-- 
-
-## Internal
-- 
-
-## Updates 
 - https://github.com/laurencedawson/sync-for-reddit/issues/1016
 - https://github.com/laurencedawson/sync-for-reddit/issues/1134
 - https://github.com/laurencedawson/sync-for-reddit/issues/1141
@@ -56,6 +141,13 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/1244
 - https://github.com/laurencedawson/sync-for-reddit/issues/1262
 - https://github.com/laurencedawson/sync-for-reddit/issues/1263
+- https://github.com/laurencedawson/sync-for-reddit/issues/1326
+
+## Internal
+- 
+
+## Updates 
+-
 
 -----
 
