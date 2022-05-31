@@ -3,20 +3,45 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
+# Sync v22.06.01-00:00
+
+## Ultra
+- 
+
+## New
+- 
+
+## Changes
+- 
+
+## Fixes
+- 
+
+## Closed
+- 
+
+## Internal
+- Slight change to the build name format
+
+## Updates 
+-
+
+-----
+
 # Sync v22.5.31
 
 ## Ultra
 - Ultra status is now included in the device information text
 
 ## New
-- Subreddit "about" bottomsheets can now be accessed from the Toolbar if expanded toolbar is disabled
-- User "about" bottomsheets can now be accessed from the Toolbar if expanded toolbar is disabled
+- [Subreddit "about" bottomsheets can now be accessed from the Toolbar if expanded toolbar is disabled](https://i.imgur.com/3QD2d3R.jpg)
+- [User "about" bottomsheets can now be accessed from the Toolbar if expanded toolbar is disabled](https://i.imgur.com/006aTXJ.jpg)
 - Added a final page to onboarding with a few final points
 - Added a new shortcut under Legacy settings to restore the v19 comments styling 
-- Added three helper tooltips in the settings (under root, comments and theme)
-- An info button is now shown in the toolbar if large toolbar is disabled	
+- Added three helper tooltips in the settings (under root, [comments](https://i.imgur.com/xZvL6l6.png) and (theme)[https://i.imgur.com/32UnzN9.png])
 - Long pressing the toolbar will now refresh comments, posts and messages
 - Added a dropdown indicator to the small toolbar
+- [Friends has been added to the default feeds list](https://i.imgur.com/QvPjJ3y.png)
 
 ## Changes
 - Moved "legacy settings" to the top of the settings
@@ -27,6 +52,10 @@
 
 ## Fixes
 - Fixed an issue with loaded themes not sticking after a reboot
+- Fixed a crash when opening the subreddit about bottomsheet
+- Fixed a crash when the automatic monet palett fails to load
+- Fixed a crash when swipe to hide was applied
+- Fixed a crash when sending a message
 
 ## Closed
 - https://github.com/laurencedawson/sync-for-reddit/issues/1340
