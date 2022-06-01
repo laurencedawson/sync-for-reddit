@@ -3,22 +3,32 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
-# Sync v22.06.01-00:00
+# Sync v22.06.01-21:04
 
 ## Ultra
 - 
 
 ## New
-- 
+- Added swipe mode back in
+	- From "More Actions" > "Swipe mode"
+	- From the subreddit picker > three dots > "Open in swipe mode"
 
 ## Changes
-- 
+- By default more actions now opens 2/3 of the way
+- Added swipe mode, refresh and search to the default actions
+- Added the "expand on open" option back to more actions
+- Rearranged the default order of more actions
+- Reverted the about icon
+- Action visibility toggles are now alphabetically sorted
 
 ## Fixes
-- 
+- Fixed an issue where contextual chips were not selectable when the expanded toolbar was disabled
+- Fixed a crash when setting a ripple drawable
+- Fixed a crash when loading themes
+- Fixed an issue where "remove ads" could not be purchased!!!	
 
 ## Closed
-- 
+- https://github.com/laurencedawson/sync-for-reddit/issues/779
 
 ## Internal
 - Slight change to the build name format
@@ -46,7 +56,7 @@
 ## Changes
 - Moved "legacy settings" to the top of the settings
 - Highlighting new comment backgrounds is now off by default
-- The skip button has been temporarily hidden from onboarding while we roll out to production
+- The skip button has been temporarily hidden from onboarding while we roll out to q
 - Long pressing "Welcome to Sync for Reddit" will allow existing users to skip onboarding
 - Removed search from the toolbar (its available in the bottom nav and drawer)
 
