@@ -3,6 +3,49 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
+
+
+- Added view friends to the top toolbar when expanded is disabled
+
+# Sync v22.06.02-11:01
+
+## Ultra
+- 
+
+## New
+- Added a new about action to the more actions (subreddit, profile, friends and multis)
+- You can now long press the three dot menu top right to perform the first action in "More Actions"
+- Added "reload subscriptions" to the subreddit more menu (useful if they ever fail to sync)
+- Added a new emoticon (シ_ _)シ
+
+## Changes
+- Removed spaces when using "open subreddit" or "open profile" actions
+- More actions is now the default behavior of the FAB
+- More actions now has the horizontal more icon 
+- By popular demand search is once again shown as a toolbar icon
+- When viewing a multireddit tapping the subreddit name in the toolbar will now bring up manage
+- When viewing "friends" tapping the subreddit name in the toolbar will now bring up a list of your friends
+- User profile pictures are now loaded for friends on sync
+- The FAB no longer changes action when you go to your own messaging (didn't make much sense to open a blank message really)
+- Multi "manage' and friend "manage" have been renamed to about for consistency
+
+## Fixes
+- Fixed the jerky loading animation when opening the subreddit about bottomsheet
+- The posts / messaging FAB is now always shown and no longer hides when posts enter / exit
+- Pulling the subreddit list down from with the little dragger now works
+- Fixed an issue where clicking on the new message icon would start it twice
+
+## Closed
+- 
+
+## Internal
+- 
+
+## Updates 
+-
+
+-----
+
 # Sync v22.06.01-21:04
 
 ## Ultra
