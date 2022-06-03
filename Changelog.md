@@ -7,7 +7,7 @@
 
 - Added view friends to the top toolbar when expanded is disabled
 
-# Sync v22.06.02-23:48
+# Sync v22.06.03-12:19
 
 ## Ultra
 - 
@@ -28,6 +28,8 @@
 - User profile pictures are now loaded for friends on sync
 - The FAB no longer changes action when you go to your own messaging (didn't make much sense to open a blank message really)
 - Multi "manage' and friend "manage" have been renamed to about for consistency
+- Share by default now shares a link to the comments post from the post bottomsheet (three dots for more options)
+- Long pressing share from slides or cards now shares the comments directly
 
 ## Fixes
 - Fixed the jerky loading animation when opening the subreddit about bottomsheet
@@ -36,10 +38,12 @@
 - Fixed an issue where clicking on the new message icon would start it twice
 
 ## Closed
-- 
+- https://github.com/laurencedawson/sync-for-reddit/issues/1259
+- https://github.com/laurencedawson/sync-for-reddit/issues/1366
 
 ## Internal
-- 
+- Settings > Developer options is now hidden in release builds
+- Show autoplay region developer option is now disabled in release builds
 
 ## Updates 
 -
