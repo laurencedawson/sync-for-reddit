@@ -7,12 +7,13 @@
 
 - Added view friends to the top toolbar when expanded is disabled
 
-# Sync v22.06.03-12:19
+# Sync v22.06.03-19:50
 
 ## Ultra
 - 
 
 ## New
+- Added subreddit, user, friend and multi about pages back as swipable drawers / panels
 - Added a new about action to the more actions (subreddit, profile, friends and multis)
 - You can now long press the three dot menu top right to perform the first action in "More Actions"
 - Added "reload subscriptions" to the subreddit more menu (useful if they ever fail to sync)
