@@ -7,7 +7,7 @@
 
 - Added view friends to the top toolbar when expanded is disabled
 
-# Sync v22.06.03-19:50
+# Sync v22.06.06-22:29
 
 ## Ultra
 - 
@@ -31,23 +31,50 @@
 - Multi "manage' and friend "manage" have been renamed to about for consistency
 - Share by default now shares a link to the comments post from the post bottomsheet (three dots for more options)
 - Long pressing share from slides or cards now shares the comments directly
+- Inbox is now longer shown in the bottom navigation if you are not logged in
+- Renamed "search all" to " search all subs" in the search dialog
+- Removed checking Gfycat for transcoded gifs (no longer working)
+- Increase the size of discord style drawer
+- Clicking more on Friends no longer shows "About"
 
 ## Fixes
 - Fixed the jerky loading animation when opening the subreddit about bottomsheet
 - The posts / messaging FAB is now always shown and no longer hides when posts enter / exit
 - Pulling the subreddit list down from with the little dragger now works
 - Fixed an issue where clicking on the new message icon would start it twice
+- Added a potential fix for an imageviewer crash
+- Fixed a crash when opening more actions
+- Fixed a crash when clicking the subreddit sort chip
+- Fixed a crash when opening a poll
 
 ## Closed
 - https://github.com/laurencedawson/sync-for-reddit/issues/1259
 - https://github.com/laurencedawson/sync-for-reddit/issues/1366
+- https://github.com/laurencedawson/sync-for-reddit/issues/1064
+- https://github.com/laurencedawson/sync-for-reddit/issues/1284
+- https://github.com/laurencedawson/sync-for-reddit/issues/1393
+- https://github.com/laurencedawson/sync-for-reddit/issues/1368
+- https://github.com/laurencedawson/sync-for-reddit/issues/1378
+- https://github.com/laurencedawson/sync-for-reddit/issues/1392
+- https://github.com/laurencedawson/sync-for-reddit/issues/1384
+- https://github.com/laurencedawson/sync-for-reddit/issues/1379
+- https://github.com/laurencedawson/sync-for-reddit/issues/1377
+- https://github.com/laurencedawson/sync-for-reddit/issues/1383
+- 
 
 ## Internal
 - Settings > Developer options is now hidden in release builds
 - Show autoplay region developer option is now disabled in release builds
 
 ## Updates 
--
+- com.google.android.material:material > 1.7.0-alpha02
+- androidx.annotation:annotation > 1.4.0-rc01
+- androidx.core:core-splashscreen > 1.0.0-rc01
+- com.google.firebase:firebase-functions > 20.1.0
+- com.google.firebase:firebase-config > 21.1.0
+- com.google.firebase:firebase-messaging > 23.0.5
+- com.google.firebase:firebase-crashlytics-gradle > 2.9.0
+- com.google.code.gson:gson > 2.8.9
 
 -----
 
