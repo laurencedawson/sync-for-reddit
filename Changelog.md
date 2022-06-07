@@ -3,11 +3,7 @@
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
 
-
-
-- Added view friends to the top toolbar when expanded is disabled
-
-# Sync v22.06.06-22:29
+# Sync v22.06.07-23:00
 
 ## Ultra
 - 
@@ -18,6 +14,11 @@
 - You can now long press the three dot menu top right to perform the first action in "More Actions"
 - Added "reload subscriptions" to the subreddit more menu (useful if they ever fail to sync)
 - Added a new emoticon (シ_ _)シ
+- You can now share wiki pages
+- Added "scroll to top" as a new action in "more actions" (off by default)
+- Added "open link" to the subreddit picker when a URL is detected
+- Sharing comment "permalinks" now shares the title for better link recognition
+- Comments are now long pressable when viewing from a profile
 
 ## Changes
 - Removed spaces when using "open subreddit" or "open profile" actions
@@ -36,6 +37,10 @@
 - Removed checking Gfycat for transcoded gifs (no longer working)
 - Increase the size of discord style drawer
 - Clicking more on Friends no longer shows "About"
+- Reverted changes to the More Actions half expanding on open
+- Moved snap scrolling setting to experimental and added a description
+- Updated the more action labels
+- The purchase ultra button is now much more vibrant
 
 ## Fixes
 - Fixed the jerky loading animation when opening the subreddit about bottomsheet
@@ -46,6 +51,10 @@
 - Fixed a crash when opening more actions
 - Fixed a crash when clicking the subreddit sort chip
 - Fixed a crash when opening a poll
+- Fixed an issue where ban was not visible in night mode
+- Fixed a crash when previewing just "#"
+- Fixed an issue where the hex value of the theme wouldn't be updated in the settings
+- Fixed an issue where expanded link text wouldn't display correctly
 
 ## Closed
 - https://github.com/laurencedawson/sync-for-reddit/issues/1259
@@ -60,7 +69,41 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/1379
 - https://github.com/laurencedawson/sync-for-reddit/issues/1377
 - https://github.com/laurencedawson/sync-for-reddit/issues/1383
-- 
+- https://github.com/laurencedawson/sync-for-reddit/issues/680
+- https://github.com/laurencedawson/sync-for-reddit/issues/851
+- https://github.com/laurencedawson/sync-for-reddit/issues/1400
+- https://github.com/laurencedawson/sync-for-reddit/issues/1401
+- https://github.com/laurencedawson/sync-for-reddit/issues/1401
+- https://github.com/laurencedawson/sync-for-reddit/issues/1303
+- https://github.com/laurencedawson/sync-for-reddit/issues/1345
+- https://github.com/laurencedawson/sync-for-reddit/issues/1398
+- https://github.com/laurencedawson/sync-for-reddit/issues/1395
+- https://github.com/laurencedawson/sync-for-reddit/issues/1382
+- https://github.com/laurencedawson/sync-for-reddit/issues/1375
+- https://github.com/laurencedawson/sync-for-reddit/issues/1372
+- https://github.com/laurencedawson/sync-for-reddit/issues/1363
+- https://github.com/laurencedawson/sync-for-reddit/issues/1351
+- https://github.com/laurencedawson/sync-for-reddit/issues/1348
+- https://github.com/laurencedawson/sync-for-reddit/issues/1342
+- https://github.com/laurencedawson/sync-for-reddit/issues/1338
+- https://github.com/laurencedawson/sync-for-reddit/issues/1334
+- https://github.com/laurencedawson/sync-for-reddit/issues/1332
+- https://github.com/laurencedawson/sync-for-reddit/issues/1330
+- https://github.com/laurencedawson/sync-for-reddit/issues/1325
+- https://github.com/laurencedawson/sync-for-reddit/issues/1320
+- https://github.com/laurencedawson/sync-for-reddit/issues/1312
+- https://github.com/laurencedawson/sync-for-reddit/issues/1311
+- https://github.com/laurencedawson/sync-for-reddit/issues/1309
+- https://github.com/laurencedawson/sync-for-reddit/issues/1308
+- https://github.com/laurencedawson/sync-for-reddit/issues/1115
+- https://github.com/laurencedawson/sync-for-reddit/issues/1246
+- https://github.com/laurencedawson/sync-for-reddit/issues/1246
+- https://github.com/laurencedawson/sync-for-reddit/issues/1243
+- https://github.com/laurencedawson/sync-for-reddit/issues/1112
+- https://github.com/laurencedawson/sync-for-reddit/issues/944
+- https://github.com/laurencedawson/sync-for-reddit/issues/539
+- https://github.com/laurencedawson/sync-for-reddit/issues/1282
+
 
 ## Internal
 - Settings > Developer options is now hidden in release builds
