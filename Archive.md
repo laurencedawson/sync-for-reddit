@@ -1,15 +1,11 @@
-## Links
+# Changelog archive
 
-- [TODO](https://todo.syncforreddit.com)
-- [Changelog](https://todo.syncforreddit.com/Changelog)
-- [Archive](https://todo.syncforreddit.com/Archive)
+## Sync v22.06.07-23:00
 
-# Sync v22.06.07-23:00
-
-## Ultra
+### Ultra
 - 
 
-## New
+### New
 - Added subreddit, user, friend and multi about pages back as swipable drawers / panels
 - Added a new about action to the more actions (subreddit, profile, friends and multis)
 - You can now long press the three dot menu top right to perform the first action in "More Actions"
@@ -21,7 +17,7 @@
 - Sharing comment "permalinks" now shares the title for better link recognition
 - Comments are now long pressable when viewing from a profile
 
-## Changes
+### Changes
 - Removed spaces when using "open subreddit" or "open profile" actions
 - More actions is now the default behavior of the FAB
 - More actions now has the horizontal more icon 
@@ -57,7 +53,7 @@
 - Fixed an issue where the hex value of the theme wouldn't be updated in the settings
 - Fixed an issue where expanded link text wouldn't display correctly
 
-## Closed
+### Closed
 - https://github.com/laurencedawson/sync-for-reddit/issues/1259
 - https://github.com/laurencedawson/sync-for-reddit/issues/1366
 - https://github.com/laurencedawson/sync-for-reddit/issues/1064
@@ -106,11 +102,11 @@
 - https://github.com/laurencedawson/sync-for-reddit/issues/1282
 
 
-## Internal
+### Internal
 - Settings > Developer options is now hidden in release builds
 - Show autoplay region developer option is now disabled in release builds
 
-## Updates 
+### Updates 
 - com.google.android.material:material > 1.7.0-alpha02
 - androidx.annotation:annotation > 1.4.0-rc01
 - androidx.core:core-splashscreen > 1.0.0-rc01
