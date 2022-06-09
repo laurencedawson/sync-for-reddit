@@ -6,3 +6,7 @@ search_enabled: true
 color_scheme: dark
 $link-color: $blue-000;
 nav_sort: case_insensitive
+
+aux_links:
+  "Download Sync from Google Play":
+    - "https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync"
