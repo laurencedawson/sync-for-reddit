@@ -6,4 +6,8 @@ nav_order: 1
 
 # Home
 
-TODO!
+# V22 roll out progress
+
+- [x] Dev + beta testers
+- [x] Pro production
+- [ ] Free production
