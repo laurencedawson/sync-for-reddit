@@ -2,7 +2,7 @@
 
 - [TODO](https://todo.syncforreddit.com)
 - [Changelog](https://todo.syncforreddit.com/Changelog)
-- [Changelog (archive)](https://todo.syncforreddit.com/Changelog-archive)
+- [Archive](https://todo.syncforreddit.com/Archive)
 
 # Sync v22.06.07-23:00
 
