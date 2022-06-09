@@ -1,1 +1,1 @@
-![Sync logo](https://i.imgur.com/lkpAzg4.png)
+![Sync logo](https://i.imgur.com/jHu7BwJ.png)
