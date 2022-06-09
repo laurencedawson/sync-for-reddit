@@ -3,11 +3,10 @@ description: [A beautiful Reddit app for browsing Reddit on the go!]
 
 remote_theme: just-the-docs/just-the-docs
 search_enabled: true
-color_scheme: light
 $link-color: $blue-000;
 nav_sort: case_insensitive
 heading_anchors: true
-logo: "https://play-lh.googleusercontent.com/rneSvN2UXjglI5q6Cl7Hiim84n5bIUBghhSZNfDQk7Zjw8gWCWgxA5zW_c2i-TNYfEbv=w480-h960-rw"
+
 
 aux_links:
   "Download Sync from Google Play":
