@@ -1,6 +1,8 @@
-# In-progress changelog
+# Changelog
 
 ## Sync v22.06.09
+
+----------
 
 ### Ultra
 - 
