@@ -1,4 +1,4 @@
-# Changelog
+# Other
 
 ## Sync v22.06.09
 
