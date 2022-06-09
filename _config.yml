@@ -6,6 +6,7 @@ search_enabled: true
 $link-color: $blue-000;
 nav_sort: case_insensitive
 heading_anchors: true
+color_scheme: dark
 
 
 aux_links:
