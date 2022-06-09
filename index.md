@@ -6,7 +6,8 @@ nav_order: 1
 
 # Sync for reddit
 
-## A beautiful Reddit app for browsing Reddit on the go! Example text to see if this is the right way. More example text.
+A beautiful Reddit app for browsing Reddit on the go! Example text to see if this is the right way. More example text.
+{: .fs-6 .fw-300 }
 
 
 ![](https://i.imgur.com/So4xjAy.png)
