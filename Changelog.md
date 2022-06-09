@@ -1,9 +1,3 @@
-## Links
-
-- [TODO](https://todo.syncforreddit.com)
-- [Changelog](https://todo.syncforreddit.com/Changelog)
-- [Archive](https://todo.syncforreddit.com/Archive)
-
 # Sync v22.06.09
 
 ## Ultra
