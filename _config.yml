@@ -1,5 +1,4 @@
 title: [Sync for Reddit]
 
 remote_theme: just-the-docs/just-the-docs
-search_enabled: false
-heading_anchors: false
+search_enabled: true
