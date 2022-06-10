@@ -14,6 +14,7 @@ nav_order: 1
 
 ## New
 - Added a top secret new hidden panel...
+- Website previews, expanded links and image links have been added to selftext ([#1292](https://github.com/laurencedawson/sync-for-reddit/issues/1292))
 
 ## Changes
 - Added additional text when sharing images with titles directly
@@ -29,7 +30,7 @@ nav_order: 1
 - Fixed an issue where "View mods" was missing from the About page ([#1422](https://github.com/laurencedawson/sync-for-reddit/issues/1422))
 - Fixed an issue where icons were not shown behind swipe actions in tablet mode  ([#1415](https://github.com/laurencedawson/sync-for-reddit/issues/1415))
 - Fixed an issue where copying post titles would append a zero-width space at the end ([#1413](https://github.com/laurencedawson/sync-for-reddit/issues/1413))
-- Fixed a restore issue ([#1422](https://github.com/laurencedawson/sync-for-reddit/issues/1422))
+- Fixed a restore issue ([#1412](https://github.com/laurencedawson/sync-for-reddit/issues/1412))
 - Fixed an issue where white lines could appear around images when using full-width mode ([#489](https://github.com/laurencedawson/sync-for-reddit/issues/489))
 - Fixed an issue on Android 7 where the search box would appear overly rounded
 - Fixed an issue where bottom navigation items were not long clickable on Android 7 ([#1305](https://github.com/laurencedawson/sync-for-reddit/issues/1305))
