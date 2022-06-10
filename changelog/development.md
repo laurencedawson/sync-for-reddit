@@ -18,6 +18,7 @@ nav_order: 1
 ## Changes
 - Added additional text when sharing images with titles directly
 - Updated the settings reset icon
+- Enabled "[fast fallback](https://old.reddit.com/r/RedditEng/comments/v1upr8/ipv6_support_on_android/)" for all requests. This should fix any IPv6 releated issues ([#1389](https://github.com/laurencedawson/sync-for-reddit/issues/1389))
 
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
@@ -29,10 +30,10 @@ nav_order: 1
 - Fixed a restore issue ([#1422](https://github.com/laurencedawson/sync-for-reddit/issues/1422))
 
 ## Internal
-- 
+- Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
 
 ## Updates 
-- 
+- com.squareup.okhttp3:okhttp > v5.0.0-alpha.8
 
 
 ([#]())
