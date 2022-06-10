@@ -29,6 +29,9 @@ nav_order: 1
 - Fixed an issue where copying post titles would append a zero-width space at the end ([#1413](https://github.com/laurencedawson/sync-for-reddit/issues/1413))
 - Fixed a restore issue ([#1422](https://github.com/laurencedawson/sync-for-reddit/issues/1422))
 - Fixed an issue where white lines could appear around images when using full-width mode ([#489](https://github.com/laurencedawson/sync-for-reddit/issues/489))
+- Fixed an issue on Android 7 where the search box would appear overly rounded
+- Fixed an issue where bottom navigation items were not long clickable on Android 7 ([#1305](https://github.com/laurencedawson/sync-for-reddit/issues/1305))
+
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
