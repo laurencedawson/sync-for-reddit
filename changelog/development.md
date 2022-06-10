@@ -24,6 +24,7 @@ nav_order: 1
 - Fixed an issue with wiki pages sharing the incorrect link ([#1411](https://github.com/laurencedawson/sync-for-reddit/issues/1411))
 - Fixed an issue where the bottom nav region would persist when disabled ([#1425](https://github.com/laurencedawson/sync-for-reddit/issues/1425))
 - Fixed an issue where "View mods" was missing from the About page ([#1422](https://github.com/laurencedawson/sync-for-reddit/issues/1422))
+- Fixed an issue where icons were not shown behind swipe actions in tablet mode  ([#1415](https://github.com/laurencedawson/sync-for-reddit/issues/1415))
 
 ## Internal
 - 
@@ -32,4 +33,4 @@ nav_order: 1
 - 
 
 
--  ([#]())
+([#]())
