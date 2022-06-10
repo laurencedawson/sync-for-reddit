@@ -26,6 +26,7 @@ nav_order: 1
 - Fixed an issue where "View mods" was missing from the About page ([#1422](https://github.com/laurencedawson/sync-for-reddit/issues/1422))
 - Fixed an issue where icons were not shown behind swipe actions in tablet mode  ([#1415](https://github.com/laurencedawson/sync-for-reddit/issues/1415))
 - Fixed an issue where copying post titles would append a zero-width space at the end ([#1413](https://github.com/laurencedawson/sync-for-reddit/issues/1413))
+- Fixed a restore issue ([#1422](https://github.com/laurencedawson/sync-for-reddit/issues/1422))
 
 ## Internal
 - 
