@@ -13,7 +13,7 @@ nav_order: 1
 - 
 
 ## New
-- Added a top secret new hidden panel
+- Added a top secret new hidden panel...
 
 ## Changes
 - Added additional text when sharing images with titles directly
@@ -22,10 +22,14 @@ nav_order: 1
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
 - Fixed an issue with wiki pages sharing the incorrect link ([#1411](https://github.com/laurencedawson/sync-for-reddit/issues/1411))
-- 
+- Fixed an issue where the bottom nav region would persist when disabled ([#1425](https://github.com/laurencedawson/sync-for-reddit/issues/1425))
+- Fixed an issue where "View mods" was missing from the About page ([#1422](https://github.com/laurencedawson/sync-for-reddit/issues/1422))
 
 ## Internal
 - 
 
 ## Updates 
 - 
+
+
+-  ([#]())
