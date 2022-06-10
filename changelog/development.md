@@ -20,6 +20,7 @@ nav_order: 1
 - Updated the settings reset icon
 - Enabled "[fast fallback](https://old.reddit.com/r/RedditEng/comments/v1upr8/ipv6_support_on_android/)" for all requests. This should fix any IPv6 releated issues ([#1389](https://github.com/laurencedawson/sync-for-reddit/issues/1389))
 - Long pressing spoilers now performs the click action instead ([#1131](https://github.com/laurencedawson/sync-for-reddit/issues/1131))
+- User flairs are now restricted to 20 characters and can be tapped to reveal the full length ([#519](https://github.com/laurencedawson/sync-for-reddit/issues/519))
 
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
@@ -34,6 +35,7 @@ nav_order: 1
 - Fixed an issue where bottom navigation items were not long clickable on Android 7 ([#1305](https://github.com/laurencedawson/sync-for-reddit/issues/1305))
 - Fixed an issue where drafts were not readable in night mode ([#1216](https://github.com/laurencedawson/sync-for-reddit/issues/1216))
 - Fixed an issue where searching with # caused it to disregard the subreddit ([#1171](https://github.com/laurencedawson/sync-for-reddit/issues/1171))
+- Fixed an issue where the more actions bottom sheet would remain up ([#1428](https://github.com/laurencedawson/sync-for-reddit/issues/1428))
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
