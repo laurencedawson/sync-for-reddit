@@ -54,6 +54,7 @@ nav_order: 1
 - Fixed an issue where "select text" wasn't scrollable ([#1120](https://github.com/laurencedawson/sync-for-reddit/issues/1120))
 - Fixed a swipe issue when using the discord style drawwer ([#1431](https://github.com/laurencedawson/sync-for-reddit/issues/1431))
 - Fixed an issue where multiple spaces in selftext / comments were combined to one ([#1264](https://github.com/laurencedawson/sync-for-reddit/issues/1264))
+- Fixed an issue where long clickin a username would fail to open externally ([#1281](https://github.com/laurencedawson/sync-for-reddit/issues/1281))
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
