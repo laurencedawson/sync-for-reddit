@@ -58,6 +58,9 @@ nav_order: 1
 - Fixed an issue where images that were webpages were not displaying the right error ([#1176](https://github.com/laurencedawson/sync-for-reddit/issues/1176))
 - Fixed an issue where escaped spoiler tags were rendering as spoilers ([#1361](https://github.com/laurencedawson/sync-for-reddit/issues/1361))
 - Fixed an issue where quotes couldn't be placed inside quotes ([#1361](https://github.com/laurencedawson/sync-for-reddit/issues/1361))
+- Fixed an issue where super long selftext iamges would crash ([#1404](https://github.com/laurencedawson/sync-for-reddit/issues/1404))
+- Fixed an issue where updating the subreddit search term would reset the sort ([#305](https://github.com/laurencedawson/sync-for-reddit/issues/305))
+- Fixed an issue where the wrong subreddit in the drawer could be highlighted ([#1242](https://github.com/laurencedawson/sync-for-reddit/issues/1242))
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
