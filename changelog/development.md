@@ -26,6 +26,8 @@ nav_order: 1
 - Changed how multi-line code is rendered ([#1336](https://github.com/laurencedawson/sync-for-reddit/issues/1336))
 - If translate is not available a toast is now displayed ([#1324](https://github.com/laurencedawson/sync-for-reddit/issues/1324))
 - Swipe view selftext is now set as the primary text color
+- Added a fallback loading method for Gfycat & Redgifs
+- Gfycat & Redgifs now load HD variants on WiFi
 
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
