@@ -55,6 +55,9 @@ nav_order: 1
 - Fixed a swipe issue when using the discord style drawwer ([#1431](https://github.com/laurencedawson/sync-for-reddit/issues/1431))
 - Fixed an issue where multiple spaces in selftext / comments were combined to one ([#1264](https://github.com/laurencedawson/sync-for-reddit/issues/1264))
 - Fixed an issue where long clickin a username would fail to open externally ([#1281](https://github.com/laurencedawson/sync-for-reddit/issues/1281))
+- Fixed an issue where images that were webpages were not displaying the right error ([#1176](https://github.com/laurencedawson/sync-for-reddit/issues/1176))
+- Fixed an issue where escaped spoiler tags were rendering as spoilers ([#1361](https://github.com/laurencedawson/sync-for-reddit/issues/1361))
+- Fixed an issue where quotes couldn't be placed inside quotes ([#1361](https://github.com/laurencedawson/sync-for-reddit/issues/1361))
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
