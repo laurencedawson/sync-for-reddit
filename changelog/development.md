@@ -45,7 +45,7 @@ nav_order: 1
 - Fixed a crash when opening the legacy drawer
 - Fixed a crash when searching for a subreddit
 - Fixed an issue where Gfycat links would not show as media previews ([#1329](https://github.com/laurencedawson/sync-for-reddit/issues/1329))
-- 
+- Fixed status bar issues when in split screen ((#1270)[https://github.com/laurencedawson/sync-for-reddit/issues/1270])
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
