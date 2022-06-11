@@ -28,6 +28,7 @@ nav_order: 1
 - Swipe view selftext is now set as the primary text color
 - Added a fallback loading method for Gfycat & Redgifs
 - Gfycat & Redgifs now load HD variants on WiFi
+- YouTube thumbnails are now loaded directly ([#1347](https://github.com/laurencedawson/sync-for-reddit/issues/1347))
 
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
@@ -49,6 +50,7 @@ nav_order: 1
 - Fixed an issue where Gfycat links would not show as media previews ([#1329](https://github.com/laurencedawson/sync-for-reddit/issues/1329))
 - Fixed status bar issues when in split screen ((#1270)[https://github.com/laurencedawson/sync-for-reddit/issues/1270])
 - Fixed an issue where text was not scrollable in swipe mode ((#1406)[https://github.com/laurencedawson/sync-for-reddit/issues/1406])
+- Fixed an issue where videos wouldn't resume in fullscreen from card mode ((#1223)[https://github.com/laurencedawson/sync-for-reddit/issues/1223])
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
