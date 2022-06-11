@@ -24,6 +24,8 @@ nav_order: 1
 - Long pressing spoilers now performs the click action instead ([#1131](https://github.com/laurencedawson/sync-for-reddit/issues/1131))
 - User flairs are now restricted to 20 characters and can be tapped to reveal the full length ([#519](https://github.com/laurencedawson/sync-for-reddit/issues/519))
 - Changed how multi-line code is rendered ([#1336](https://github.com/laurencedawson/sync-for-reddit/issues/1336))
+- If translate is not available a toast is now displayed ([#1324](https://github.com/laurencedawson/sync-for-reddit/issues/1324))
+- 
 
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
@@ -42,6 +44,8 @@ nav_order: 1
 - Fixed a crash when exiting the app
 - Fixed a crash when opening the legacy drawer
 - Fixed a crash when searching for a subreddit
+- Fixed an issue where Gfycat links would not show as media previews ([#1329](https://github.com/laurencedawson/sync-for-reddit/issues/1329))
+- 
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
