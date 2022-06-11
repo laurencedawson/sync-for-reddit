@@ -15,6 +15,7 @@ nav_order: 1
 ## New
 - Added a top secret new hidden panel...
 - Website previews, expanded links and image links have been added to selftext ([#1292](https://github.com/laurencedawson/sync-for-reddit/issues/1292))
+- Added "copy code block" buttons after code blocks in comments / selftext
 
 ## Changes
 - Added additional text when sharing images with titles directly
@@ -22,6 +23,7 @@ nav_order: 1
 - Enabled "[fast fallback](https://old.reddit.com/r/RedditEng/comments/v1upr8/ipv6_support_on_android/)" for all requests. This should fix any IPv6 releated issues ([#1389](https://github.com/laurencedawson/sync-for-reddit/issues/1389))
 - Long pressing spoilers now performs the click action instead ([#1131](https://github.com/laurencedawson/sync-for-reddit/issues/1131))
 - User flairs are now restricted to 20 characters and can be tapped to reveal the full length ([#519](https://github.com/laurencedawson/sync-for-reddit/issues/519))
+- Changed how multi-line code is rendered ([#1336](https://github.com/laurencedawson/sync-for-reddit/issues/1336))
 
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
@@ -37,6 +39,9 @@ nav_order: 1
 - Fixed an issue where drafts were not readable in night mode ([#1216](https://github.com/laurencedawson/sync-for-reddit/issues/1216))
 - Fixed an issue where searching with # caused it to disregard the subreddit ([#1171](https://github.com/laurencedawson/sync-for-reddit/issues/1171))
 - Fixed an issue where the more actions bottom sheet would remain up ([#1428](https://github.com/laurencedawson/sync-for-reddit/issues/1428))
+- Fixed a crash when exiting the app
+- Fixed a crash when opening the legacy drawer
+- Fixed a crash when searching for a subreddit
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
