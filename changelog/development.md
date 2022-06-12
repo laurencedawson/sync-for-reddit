@@ -16,9 +16,7 @@ nav_order: 1
 - Website previews, expanded links and image links have been added to selftext ([#1292](https://github.com/laurencedawson/sync-for-reddit/issues/1292))
 - Added "copy code block" buttons after code blocks in comments / selftext
 - Added a popup for Dev users to come join the Discord!
-- Added the option to enhance autoplay videos ([#827](https://github.com/laurencedawson/sync-for-reddit/issues/827))
-	- Gfycat & Redtube videos will play higher quality versions
-	- Also supports audio
+- Ehnanced autoplay. Grab higher quality autoplay videos with audio for Gfycat &amp; Redgifs ([#827](https://github.com/laurencedawson/sync-for-reddit/issues/827))
 
 ## Changes
 - YouTube link handling is now off by default due to an update from YouTube breaking the player
@@ -70,6 +68,7 @@ nav_order: 1
 - Fixed an issue where website previews in selftext / comments were displayed incorrectly
 - Fixed an issue where the about bottomsheet would popup again if links were long pressed
 - Fixed an issue where award bottomsheets used the old style for buttons
+- Fixed an issue where images were saved incorrectly in swipe mode ([#1410](https://github.com/laurencedawson/sync-for-reddit/issues/1410))
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
