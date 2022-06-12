@@ -32,6 +32,7 @@ nav_order: 1
 - Gfycat & Redgifs now load HD variants on WiFi
 - YouTube thumbnails are now loaded directly ([#1347](https://github.com/laurencedawson/sync-for-reddit/issues/1347))
 - If media fails to download to a subfolder it will now automatically recreate the folder ([#1177](https://github.com/laurencedawson/sync-for-reddit/issues/1177))
+- Youtube previews now use a higher quality version ((#1137)[https://github.com/laurencedawson/sync-for-reddit/issues/1137])
 
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
@@ -69,6 +70,10 @@ nav_order: 1
 - Fixed an issue where the about bottomsheet would popup again if links were long pressed
 - Fixed an issue where award bottomsheets used the old style for buttons
 - Fixed an issue where images were saved incorrectly in swipe mode ([#1410](https://github.com/laurencedawson/sync-for-reddit/issues/1410))
+- Fixed an issue where the keyboard wouldn't adjust the text input area ([#1254](https://github.com/laurencedawson/sync-for-reddit/issues/1254))
+- Fixed an issue with Twitter previews in slides using fullwidth
+- Fixed an issue with full width slides when all buttons were disabled ((#1149)[https://github.com/laurencedawson/sync-for-reddit/issues/1149])
+- Fixed an issue where text with a strikethough would randomly update ((#1299)[https://github.com/laurencedawson/sync-for-reddit/issues/1299])
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
