@@ -13,11 +13,15 @@ nav_order: 1
 - 
 
 ## New
-- Added a top secret new hidden panel...
 - Website previews, expanded links and image links have been added to selftext ([#1292](https://github.com/laurencedawson/sync-for-reddit/issues/1292))
 - Added "copy code block" buttons after code blocks in comments / selftext
+- Added a popup for Dev users to come join the Discord!
+- Added the option to enhance autoplay videos ([#827](https://github.com/laurencedawson/sync-for-reddit/issues/827))
+	- Gfycat & Redtube videos will play higher quality versions
+	- Also supports audio
 
 ## Changes
+- YouTube link handling is now off by default due to an update from YouTube breaking the player
 - Added additional text when sharing images with titles directly
 - Updated the settings reset icon
 - Enabled "[fast fallback](https://old.reddit.com/r/RedditEng/comments/v1upr8/ipv6_support_on_android/)" for all requests. This should fix any IPv6 releated issues ([#1389](https://github.com/laurencedawson/sync-for-reddit/issues/1389))
@@ -29,6 +33,7 @@ nav_order: 1
 - Added a fallback loading method for Gfycat & Redgifs
 - Gfycat & Redgifs now load HD variants on WiFi
 - YouTube thumbnails are now loaded directly ([#1347](https://github.com/laurencedawson/sync-for-reddit/issues/1347))
+- If media fails to download to a subfolder it will now automatically recreate the folder ([#1177](https://github.com/laurencedawson/sync-for-reddit/issues/1177))
 
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
@@ -62,9 +67,14 @@ nav_order: 1
 - Fixed an issue where updating the subreddit search term would reset the sort ([#305](https://github.com/laurencedawson/sync-for-reddit/issues/305))
 - Fixed an issue where the wrong subreddit in the drawer could be highlighted ([#1242](https://github.com/laurencedawson/sync-for-reddit/issues/1242))
 - Fixed an issue where messages were checked at startup even when disabled ([#798](https://github.com/laurencedawson/sync-for-reddit/issues/798))
+- Fixed an issue where website previews in selftext / comments were displayed incorrectly
+- Fixed an issue where the about bottomsheet would popup again if links were long pressed
+- Fixed an issue where award bottomsheets used the old style for buttons
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
+- Developer options can now be accessed by /r/redditsync mods in the settings
+- Added a way to demo the Discord join BottomSheet in the developer options
 
 ## Updates 
 - com.squareup.okhttp3:okhttp > v5.0.0-alpha.8
