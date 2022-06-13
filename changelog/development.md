@@ -79,7 +79,8 @@ nav_order: 1
 - Fixed an issue with full width slides when all buttons were disabled ((#1149)[https://github.com/laurencedawson/sync-for-reddit/issues/1149])
 - Fixed an issue where text with a strikethough would randomly update ((#1299)[https://github.com/laurencedawson/sync-for-reddit/issues/1299])
 - Fixed an issue with low quality thumbnails ([#1121](https://github.com/laurencedawson/sync-for-reddit/issues/1121))
-- 
+- Fixed an issue with content filters ([#1316](https://github.com/laurencedawson/sync-for-reddit/issues/1316))
+- Fixed a crash with strange reddit video posts ([#1084](https://github.com/laurencedawson/sync-for-reddit/issues/1084))
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
