@@ -13,6 +13,7 @@ nav_order: 1
 - 
 
 ## New
+- Sort and more actions will appear as "top sheets" when accessed from the toolbar ([#1381](https://github.com/laurencedawson/sync-for-reddit/issues/1381)_
 - Website previews, expanded links and image links have been added to selftext ([#1292](https://github.com/laurencedawson/sync-for-reddit/issues/1292))
 - Added "copy code block" buttons after code blocks in comments / selftext
 - Added a popup for Dev users to come join the Discord!
@@ -33,6 +34,7 @@ nav_order: 1
 - YouTube thumbnails are now loaded directly ([#1347](https://github.com/laurencedawson/sync-for-reddit/issues/1347))
 - If media fails to download to a subfolder it will now automatically recreate the folder ([#1177](https://github.com/laurencedawson/sync-for-reddit/issues/1177))
 - Youtube previews now use a higher quality version ((#1137)[https://github.com/laurencedawson/sync-for-reddit/issues/1137])
+- Post previews are now generated for every sub by default
 
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
@@ -79,6 +81,8 @@ nav_order: 1
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
 - Developer options can now be accessed by /r/redditsync mods in the settings
 - Added a way to demo the Discord join BottomSheet in the developer options
+- Removed the secret panel
+- FCM token can now be viewed in the developer options
 
 ## Updates 
 - com.squareup.okhttp3:okhttp > v5.0.0-alpha.8
