@@ -37,7 +37,7 @@ nav_order: 1
 - Post previews are now generated for every sub by default
 - Simplified enabling / disabling inbox replies ([#1369](https://github.com/laurencedawson/sync-for-reddit/issues/1369))
 - Visual change for comment dividers ([#1225](https://github.com/laurencedawson/sync-for-reddit/issues/1225))
-- 
+- Reverted the mark as scroll behavior to match v19 ([#1359](https://github.com/laurencedawson/sync-for-reddit/issues/1359))
 
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
@@ -86,6 +86,9 @@ nav_order: 1
 - Fixed a markdown rendering issue ([#1148](https://github.com/laurencedawson/sync-for-reddit/issues/1148))
 - Fixed an inconsistency when displaying usernames in the subreddit selecton ([#1248](https://github.com/laurencedawson/sync-for-reddit/issues/1248))
 - Fixed an inconsistency displaying user profiles in subreddit Selector list([#1249](https://github.com/laurencedawson/sync-for-reddit/issues/1249))
+- Fixed an issue where media subfolders recreated indefinitely when each app is installed or app data is reset ([#1178](https://github.com/laurencedawson/sync-for-reddit/issues/1178))
+- Fixed an issue where the mute status of the video player would be lost when changing between apps ([#1222](https://github.com/laurencedawson/sync-for-reddit/issues/1222))
+- Fixed an issue where video position was lost when switching between apps ([#746](https://github.com/laurencedawson/sync-for-reddit/issues/746))
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
