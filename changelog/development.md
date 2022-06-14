@@ -36,6 +36,7 @@ nav_order: 1
 - Youtube previews now use a higher quality version ((#1137)[https://github.com/laurencedawson/sync-for-reddit/issues/1137])
 - Post previews are now generated for every sub by default
 - Simplified enabling / disabling inbox replies ([#1369](https://github.com/laurencedawson/sync-for-reddit/issues/1369))
+- Visual change for comment dividers ([#1225](https://github.com/laurencedawson/sync-for-reddit/issues/1225))
 - 
 
 ## Fixes
@@ -82,6 +83,9 @@ nav_order: 1
 - Fixed an issue with content filters ([#1316](https://github.com/laurencedawson/sync-for-reddit/issues/1316))
 - Fixed a crash with strange reddit video posts ([#1084](https://github.com/laurencedawson/sync-for-reddit/issues/1084))
 - Fixed an issue where videos would not autoplay when using a mouse wheel ([#1333](https://github.com/laurencedawson/sync-for-reddit/issues/1333))
+- Fixed a markdown rendering issue ([#1148](https://github.com/laurencedawson/sync-for-reddit/issues/1148))
+- Fixed an inconsistency when displaying usernames in the subreddit selecton ([#1248](https://github.com/laurencedawson/sync-for-reddit/issues/1248))
+- Fixed an inconsistency displaying user profiles in subreddit Selector list([#1249](https://github.com/laurencedawson/sync-for-reddit/issues/1249))
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
