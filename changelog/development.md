@@ -81,6 +81,7 @@ nav_order: 1
 - Fixed an issue with low quality thumbnails ([#1121](https://github.com/laurencedawson/sync-for-reddit/issues/1121))
 - Fixed an issue with content filters ([#1316](https://github.com/laurencedawson/sync-for-reddit/issues/1316))
 - Fixed a crash with strange reddit video posts ([#1084](https://github.com/laurencedawson/sync-for-reddit/issues/1084))
+- Fixed an issue where videos would not autoplay when using a mouse wheel ([#1333](https://github.com/laurencedawson/sync-for-reddit/issues/1333))
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
