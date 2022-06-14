@@ -18,6 +18,8 @@ nav_order: 1
 - Added "copy code block" buttons after code blocks in comments / selftext
 - Added a popup for Dev users to come join the Discord!
 - Ehnanced autoplay. Grab higher quality autoplay videos with audio for Gfycat &amp; Redgifs ([#827](https://github.com/laurencedawson/sync-for-reddit/issues/827))
+- Replaced the broken official YouTube player app for a new one ([#1433](https://github.com/laurencedawson/sync-for-reddit/issues/1433))
+- 
 
 ## Changes
 - YouTube link handling is now off by default due to an update from YouTube breaking the player
@@ -38,6 +40,7 @@ nav_order: 1
 - Simplified enabling / disabling inbox replies ([#1369](https://github.com/laurencedawson/sync-for-reddit/issues/1369))
 - Visual change for comment dividers ([#1225](https://github.com/laurencedawson/sync-for-reddit/issues/1225))
 - Reverted the mark as scroll behavior to match v19 ([#1359](https://github.com/laurencedawson/sync-for-reddit/issues/1359))
+- The drawer position is now reset after searching ([#1229](https://github.com/laurencedawson/sync-for-reddit/issues/1229))
 
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
@@ -96,6 +99,7 @@ nav_order: 1
 - Added a way to demo the Discord join BottomSheet in the developer options
 - Removed the secret panel
 - FCM token can now be viewed in the developer options
+- Removed legacy TextureVideoView
 
 ## Updates 
 - com.squareup.okhttp3:okhttp > v5.0.0-alpha.8
