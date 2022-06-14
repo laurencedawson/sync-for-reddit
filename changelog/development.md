@@ -19,10 +19,9 @@ nav_order: 1
 - Added a popup for Dev users to come join the Discord!
 - Ehnanced autoplay. Grab higher quality autoplay videos with audio for Gfycat &amp; Redgifs ([#827](https://github.com/laurencedawson/sync-for-reddit/issues/827))
 - Replaced the broken official YouTube player app for a new one ([#1433](https://github.com/laurencedawson/sync-for-reddit/issues/1433))
-- 
+- DNS over HTTP has been moved out of Ultra to Settings > Security so that everyone can benefit ([#920](https://github.com/laurencedawson/sync-for-reddit/issues/920))
 
 ## Changes
-- YouTube link handling is now off by default due to an update from YouTube breaking the player
 - Added additional text when sharing images with titles directly
 - Updated the settings reset icon
 - Enabled "[fast fallback](https://old.reddit.com/r/RedditEng/comments/v1upr8/ipv6_support_on_android/)" for all requests. This should fix any IPv6 releated issues ([#1389](https://github.com/laurencedawson/sync-for-reddit/issues/1389))
@@ -41,6 +40,11 @@ nav_order: 1
 - Visual change for comment dividers ([#1225](https://github.com/laurencedawson/sync-for-reddit/issues/1225))
 - Reverted the mark as scroll behavior to match v19 ([#1359](https://github.com/laurencedawson/sync-for-reddit/issues/1359))
 - The drawer position is now reset after searching ([#1229](https://github.com/laurencedawson/sync-for-reddit/issues/1229))
+- Added an option to mute peeked media ([#1123](https://github.com/laurencedawson/sync-for-reddit/issues/1123))
+- Bottomsheets now adjust their position for tablets in landscape ([#850](https://github.com/laurencedawson/sync-for-reddit/issues/850))
+- Awards are now hidden if the parent row is collapsed ([#561](https://github.com/laurencedawson/sync-for-reddit/issues/561))
+- Added "u_" before profiles in recently searched and visited ([#285](https://github.com/laurencedawson/sync-for-reddit/issues/285))
+- Long pressing a user flair will now copy to clipboard ([#1204](https://github.com/laurencedawson/sync-for-reddit/issues/1204))
 
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
@@ -92,6 +96,7 @@ nav_order: 1
 - Fixed an issue where media subfolders recreated indefinitely when each app is installed or app data is reset ([#1178](https://github.com/laurencedawson/sync-for-reddit/issues/1178))
 - Fixed an issue where the mute status of the video player would be lost when changing between apps ([#1222](https://github.com/laurencedawson/sync-for-reddit/issues/1222))
 - Fixed an issue where video position was lost when switching between apps ([#746](https://github.com/laurencedawson/sync-for-reddit/issues/746))
+- Fixed an issue with low-quality Gfycat / RedGif downlaods ([#155](https://github.com/laurencedawson/sync-for-reddit/issues/155))
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
