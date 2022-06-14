@@ -45,6 +45,7 @@ nav_order: 1
 - Awards are now hidden if the parent row is collapsed ([#561](https://github.com/laurencedawson/sync-for-reddit/issues/561))
 - Added "u_" before profiles in recently searched and visited ([#285](https://github.com/laurencedawson/sync-for-reddit/issues/285))
 - Long pressing a user flair will now copy to clipboard ([#1204](https://github.com/laurencedawson/sync-for-reddit/issues/1204))
+- Update sort is now available from sidebar and chipbar ([#1093](https://github.com/laurencedawson/sync-for-reddit/issues/1093))
 
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
