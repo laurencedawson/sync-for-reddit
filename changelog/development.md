@@ -17,7 +17,7 @@ nav_order: 1
 - Website previews, expanded links and image links have been added to selftext ([#1292](https://github.com/laurencedawson/sync-for-reddit/issues/1292))
 - Added "copy code block" buttons after code blocks in comments / selftext
 - Added a popup for Dev users to come join the Discord!
-- Ehnanced autoplay. Grab higher quality autoplay videos with audio for Gfycat &amp; Redgifs ([#827](https://github.com/laurencedawson/sync-for-reddit/issues/827))
+- Enhanced autoplay. Grab higher quality autoplay videos with audio for Gfycat &amp; Redgifs ([#827](https://github.com/laurencedawson/sync-for-reddit/issues/827))
 - Replaced the broken official YouTube player app for a new one ([#1433](https://github.com/laurencedawson/sync-for-reddit/issues/1433))
 - DNS over HTTP has been moved out of Ultra to Settings > Security so that everyone can benefit ([#920](https://github.com/laurencedawson/sync-for-reddit/issues/920))
 
@@ -34,7 +34,7 @@ nav_order: 1
 - Gfycat & Redgifs now load HD variants on WiFi
 - YouTube thumbnails are now loaded directly ([#1347](https://github.com/laurencedawson/sync-for-reddit/issues/1347))
 - If media fails to download to a subfolder it will now automatically recreate the folder ([#1177](https://github.com/laurencedawson/sync-for-reddit/issues/1177))
-- Youtube previews now use a higher quality version ((#1137)[https://github.com/laurencedawson/sync-for-reddit/issues/1137])
+- Youtube previews now use a higher quality version ([#1137](https://github.com/laurencedawson/sync-for-reddit/issues/1137))
 - Post previews are now generated for every sub by default
 - Simplified enabling / disabling inbox replies ([#1369](https://github.com/laurencedawson/sync-for-reddit/issues/1369))
 - Visual change for comment dividers ([#1225](https://github.com/laurencedawson/sync-for-reddit/issues/1225))
