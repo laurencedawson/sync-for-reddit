@@ -20,6 +20,9 @@ nav_order: 1
 - Enhanced autoplay. Grab higher quality autoplay videos with audio for Gfycat &amp; Redgifs ([#827](https://github.com/laurencedawson/sync-for-reddit/issues/827))
 - Replaced the broken official YouTube player app for a new one ([#1433](https://github.com/laurencedawson/sync-for-reddit/issues/1433))
 - DNS over HTTP has been moved out of Ultra to Settings > Security so that everyone can benefit ([#920](https://github.com/laurencedawson/sync-for-reddit/issues/920))
+- The Reddit error message is now shown in the notification when a comment fails to post ([#1256](https://github.com/laurencedawson/sync-for-reddit/issues/1256))
+- Added support for inline spoiler replacements ([#1186](https://github.com/laurencedawson/sync-for-reddit/issues/1186))
+- Post videos can now autoplay in comments
 
 ## Changes
 - Added additional text when sharing images with titles directly
@@ -46,6 +49,7 @@ nav_order: 1
 - Added "u_" before profiles in recently searched and visited ([#285](https://github.com/laurencedawson/sync-for-reddit/issues/285))
 - Long pressing a user flair will now copy to clipboard ([#1204](https://github.com/laurencedawson/sync-for-reddit/issues/1204))
 - Update sort is now available from sidebar and chipbar ([#1093](https://github.com/laurencedawson/sync-for-reddit/issues/1093))
+- Added support for diacritics in comment urls ([#839](https://github.com/laurencedawson/sync-for-reddit/issues/839))
 
 ## Fixes
 - Fixed an issue with wiki links not being clickable ([#1405](https://github.com/laurencedawson/sync-for-reddit/issues/1405))
@@ -98,6 +102,12 @@ nav_order: 1
 - Fixed an issue where the mute status of the video player would be lost when changing between apps ([#1222](https://github.com/laurencedawson/sync-for-reddit/issues/1222))
 - Fixed an issue where video position was lost when switching between apps ([#746](https://github.com/laurencedawson/sync-for-reddit/issues/746))
 - Fixed an issue with low-quality Gfycat / RedGif downlaods ([#155](https://github.com/laurencedawson/sync-for-reddit/issues/155))
+- Fixed an issue where emojis were showing in spoiilers ([#1167](https://github.com/laurencedawson/sync-for-reddit/issues/1167))
+- Added a potential fix for ([#1450](https://github.com/laurencedawson/sync-for-reddit/issues/1450))
+- Fixed an issue where clicking usernames with hyphens in would open in the internal browser ([#1436](https://github.com/laurencedawson/sync-for-reddit/issues/1436))
+- Fixed an issue where images wouldn't display full height in comments ([#775](https://github.com/laurencedawson/sync-for-reddit/issues/775))
+- Fixed an issue with certain subreddit links not working
+- Fixed an issue with certain links not working ([#619](https://github.com/laurencedawson/sync-for-reddit/issues/619))
 
 ## Internal
 - Removed the legacy CustomIpv4Dns class. Gfycat IPv6 requests will now automatically "fast fallback" to v4
