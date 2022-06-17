@@ -13,7 +13,8 @@ nav_order: 1
 - 
 
 ## Changes
-- 
+- Added support for additional code block style
+- Improved the topsheet animation
 
 ## Fixes
 - 
