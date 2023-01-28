@@ -10,4 +10,4 @@ child_nav_order: desc
 
 Each changelog corresponds to a release of Sync on Google Play. They are sorted in descending order and grouped by year.
 
-"development" serves as the current work in progress.
+"v23.development" serves as the current work in progress.
