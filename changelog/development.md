@@ -1,11 +1,10 @@
 ---
 layout: default
 parent: Changelog
-title: In-development
 nav_order: 1
 ---
 
-# In-development
+# development
 
 ----------
 
@@ -25,4 +24,4 @@ nav_order: 1
 ## Updates 
 - com.google.android.exoplayer:exoplayer-core > v2.18.1
 - androidx.core:core-splashscreen > v1.0.0
-- com.google.android.material:material > 1.7.0-alpha03
+- com.google.android.material:material > 1.7.0-alpha03]
